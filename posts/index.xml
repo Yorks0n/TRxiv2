@@ -6,11 +6,34 @@
     <description>Recent content in Posts on TRxiv2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 08:34:30 +0000</lastBuildDate><atom:link href="https://yorks0n.github.io/TRxiv2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 09:51:07 +0000</lastBuildDate><atom:link href="https://yorks0n.github.io/TRxiv2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>addiction medicine</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/addiction-medicine/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/addiction-medicine/</guid>
+      <description>Specific diagnostic criteria identify those at high risk for progression from &amp;#39;preaddiction&amp;#39; to severe alcohol use disorder
+Authors: Miller, A. P.; Kuo, S. I.-C.; Johnson, E. C.; Tillman, R.; Brislin, S. J.; Dick, D. M.; Kamarajan, C.; Kinreich, S.; Kramer, J.; McCutcheon, V. V.; Plawecki, M. H.; Porjesz, B.; Schuckit, M. A.; Salvatore, J. E.; Edenberg, H. J.; Bucholz, K. K.; Meyers, J. L.; Agrawal, A.
+Score: 5.4, Published: 2023-06-20 DOI: 10.</description>
+    </item>
+    
+    <item>
+      <title>allergy and immunology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/allergy-and-immunology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/allergy-and-immunology/</guid>
+      <description>Anti-SARS-CoV-2 IgG profile of protein subunit, adenovector and mRNA vaccines
+Authors: Reinig, S.; Kuo, C.; Wu, C.-C.; Huang, S.-y.; Yu, J.-S.; Shih, S.-R.
+Score: 1.2, Published: 2023-06-20 DOI: 10.1101/2023.06.16.23291455
+Different vaccine platforms were developed in 2019 and 2020 to provide immunization for protection against the SARS-CoV-2-caused disease COVID-19. The majority of vaccinated individuals will develop antibodies against SARS-CoV-2. The isotype (subclass) and Fc-glycosylation of IgG antibodies determine their affinity for secondary effector functions.</description>
+    </item>
+    
     <item>
       <title>animal behavior and cognition</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/animal-behavior-and-cognition/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/animal-behavior-and-cognition/</guid>
       <description>Snow flies self-amputate freezing limbs to sustain behavior at sub-zero temperatures
@@ -22,7 +45,7 @@ All living things are profoundly affected by temperature. In spite of the thermo
     <item>
       <title>biochemistry</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/biochemistry/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/biochemistry/</guid>
       <description>Intrinsically Disordered Regions Promote Protein Refoldability and Facilitate Retrieval from Biomolecular Condensates
@@ -32,9 +55,21 @@ Many eukaryotic proteins contain intrinsically disordered regions (IDRs) that in
     </item>
     
     <item>
+      <title>bioengineering</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/bioengineering/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/bioengineering/</guid>
+      <description>Direct 3D-bioprinting of hiPSC-derived cardiomyocytes to generate functional cardiac tissues
+Authors: Esser, T. U.; Anspach, A.; Muenzebrock, K. A.; Kah, D.; Schruefer, S.; Schenk, J.; Heinze, K. G.; Schubert, D. W.; Fabry, B.; Engel, F. B.
+Score: 26.2, Published: 2023-06-12 DOI: 10.1101/2023.06.12.544557
+3D-bioprinting is a promising technology to produce human tissues as drug screening tool or for organ repair. However, direct printing of living cells has proven difficult. Here, we present a method to directly 3D-bioprint human induced pluripotent stem cell (hiPSC)-derived cardiomyocytes embedded in a collagen-hyaluronic acid ink generating centimeter-sized functional ring- and ventricle-shaped cardiac tissues in an accurate and reproducible manner.</description>
+    </item>
+    
+    <item>
       <title>bioinformatics</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/bioinformatics/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/bioinformatics/</guid>
       <description>QuantUMS: uncertainty minimisation enables confident quantification in proteomics
@@ -46,7 +81,7 @@ Mass spectrometry-based proteomics has been rapidly gaining traction as a powerf
     <item>
       <title>biophysics</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/biophysics/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/biophysics/</guid>
       <description>Adhesion energy controls lipid binding-mediated endocytosis
@@ -58,7 +93,7 @@ Several bacterial toxins and viruses can deform membranes through multivalent bi
     <item>
       <title>cancer biology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/cancer-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/cancer-biology/</guid>
       <description>Deep intravital brain tumor imaging enabled by tailored three-photon microscopy and analysis
@@ -67,9 +102,21 @@ Score: 44.5, Published: 2023-06-21 DOI: 10.</description>
     </item>
     
     <item>
+      <title>cardiovascular medicine</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/cardiovascular-medicine/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/cardiovascular-medicine/</guid>
+      <description>Integrative metabolomics differentiate coronary artery disease, peripheral artery disease, and venous thromboembolism risks
+Authors: Lee, J.; Gilliland, T.; Koyama, S.; Nakao, T.; Dron, J.; Lannery, K.; Wong, M.; Peloso, G. M.; Hornsby, W.; Natarajan, P.
+Score: 5.0, Published: 2023-06-27 DOI: 10.1101/2023.06.21.23291103
+Rationale Venous and arterial cardiovascular conditions, such as venous thromboembolism (VTE), coronary artery disease (CAD), and peripheral arterial disease (PAD), are genetically correlated. Interrogating distinct and overlapping mechanisms may shed new light on disease mechanisms.</description>
+    </item>
+    
+    <item>
       <title>cell biology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/cell-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/cell-biology/</guid>
       <description>Combinatorial selective ER-phagy remodels the ER during neurogenesis
@@ -79,9 +126,21 @@ The endoplasmic reticulum (ER) has a vast proteomic landscape to perform many di
     </item>
     
     <item>
+      <title>dermatology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/dermatology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/dermatology/</guid>
+      <description>Topical application of Urolithin A slows intrinsic skin aging and protects from UVB-mediated photodamage: Findings from Randomized Clinical Trials
+Authors: D&amp;#39;Amico, D.; Fouassier, A.; Faitg, J.; Hennighausen, N.; Brandt, M.; Konstantopoulos, D.; Rinsch, C.; Singh, A.
+Score: 3.1, Published: 2023-06-20 DOI: 10.1101/2023.06.16.23291378
+Urolithin A is a gut microbiome derived postbiotic that has been shown to stimulate mitophagy, and improve muscle and mitochondrial health when administered orally to humans. In three separate randomized trials, we have now investigated the effect of topical administration of Urolithin A on skin aging features and on UVB-mediated photodamaged skin.</description>
+    </item>
+    
+    <item>
       <title>developmental biology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/developmental-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/developmental-biology/</guid>
       <description>Transgene-Free Ex Utero Derivation of A Human Post-Implantation Embryo Model Solely from Genetically Unmodified Naive PSCs
@@ -90,9 +149,57 @@ Score: 1057.3, Published: 2023-06-15 DOI: 10.</description>
     </item>
     
     <item>
+      <title>ecology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/ecology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/ecology/</guid>
+      <description>Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities
+Authors: Giordano, N.; Gaudin, M.; Trottier, C.; Delage, E.; Nef, C.; Bowler, C.; Chaffron, S.
+Score: 13.0, Published: 2023-06-23 DOI: 10.1101/2023.06.21.545869
+Marine microorganisms form complex communities of interacting organisms that influence central ecosystem functions in the ocean such as primary production and nutrient cycling. Identifying the mechanisms controlling their assembly and activities is a major challenge in microbial ecology.</description>
+    </item>
+    
+    <item>
+      <title>emergency medicine</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/emergency-medicine/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/emergency-medicine/</guid>
+      <description>Restrictions on top speed and nighttime usage substantially decrease the incidence of electric scooter injuries
+Authors: Pakarinen, O.; Kobylin, A.; Harjola, V.-P.; Castren, M.; Vasara, H.
+Score: 0.8, Published: 2023-06-27 DOI: 10.1101/2023.06.20.23291641
+Objective: To investigate the effectiveness of restrictions on top speed and nighttime usage on the incidence of e-scooter-related injuries. Design: A retrospective comparative study. We compared shared e-scooter injuries from two periods: Unrestricted period (1.1-31.8.2021), and Restricted period (1.</description>
+    </item>
+    
+    <item>
+      <title>endocrinology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/endocrinology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/endocrinology/</guid>
+      <description>Brain Dopamine Receptor System is Not Altered in Obesity: Bayesian and Frequentist Meta-Analyses
+Authors: Pak, K.; Nummenmaa, L.
+Score: 6.3, Published: 2023-06-25 DOI: 10.1101/2023.06.22.23291735
+Background: Feeding induces dopamine release in the striatum, and a dysfunction of the dopaminergic reward system can lead to overeating, and obesity. Studies have reported inconsistent findings of dopamine receptor (DR) positron emission tomography (PET) scans in obesity. Here we investigated the association between DR availability and overweight/obesity using Bayesian and frequentist meta-analysis.</description>
+    </item>
+    
+    <item>
+      <title>epidemiology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/epidemiology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/epidemiology/</guid>
+      <description>BharatSim: An agent-based modelling framework for India
+Authors: Cherian, P.; Kshirsagar, J.; Neekhra, B.; Deshkar, G.; Hayatnagarkar, H.; Kapoor, K.; Kaski, C.; Kathar, G.; Khandekar, S.; Mookherje, S.; Ninawe, P.; Noronha, R. F.; Ranka, P.; Sinha, V.; Vinod, T.; Yadav, C.; Gupta, D.; Menon, G. I.
+Score: 8.1, Published: 2023-06-20 DOI: 10.1101/2023.06.15.23291292
+BharatSim is an open-source agent-based modelling framework for the Indian population. It can simulate populations at multiple scales, from small communities to states.</description>
+    </item>
+    
+    <item>
       <title>evolutionary biology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/evolutionary-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/evolutionary-biology/</guid>
       <description>Genomic and ecological factors shaping specialism and generalism across an entire subphylum
@@ -100,9 +207,20 @@ Authors: Opulente, D. A.; LaBella, A. L.; Harrison, M.-C.; Wolters, J. F.; Liu, 
     </item>
     
     <item>
+      <title>gastroenterology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/gastroenterology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/gastroenterology/</guid>
+      <description>Novel autoantibody targets identified in patients with autoimmune hepatitis (AIH) by PhIP-Seq reveal pathogenic insights
+Authors: Klepper, A.; Kung, A.; Vazquez, S. E.; Mitchell, A.; Mann, S.; Avila-Vargas, I.; Kari, S.; Tekeste, M.; Castro, J.; Lee, B.; Duarte, M.; Khalili, M.; Wilson, M. R.; Yang, M.; Wolters, P.; Price, J.; Perito, E.; Feng, S.; Maher, J. J.; Lai, J. C.; Weiler-Normann, C.; Lohse, A.; DeRisi, J.; Tana, M.
+Score: 6.</description>
+    </item>
+    
+    <item>
       <title>genetic and genomic medicine</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/genetic-and-genomic-medicine/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/genetic-and-genomic-medicine/</guid>
       <description>The relationship between genotype- and phenotype-based estimates of genetic liability to human psychiatric disorders, in practice and in theory.
@@ -113,7 +231,7 @@ Score: 24.3, Published: 2023-06-23 DOI: 10.</description>
     <item>
       <title>genetics</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/genetics/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/genetics/</guid>
       <description>Nucleus-Independent Transgenerational Small RNA Inheritance in C. elegans
@@ -125,7 +243,7 @@ Studies using C. elegans nematodes demonstrated that, against the dogma, animals
     <item>
       <title>genomics</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/genomics/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/genomics/</guid>
       <description>Identification of a novel HKU4-related coronavirus in single-cell datasets and clade viral host analysis
@@ -135,9 +253,44 @@ HKU4-related coronaviruses (CoVs) are merbecoviruses related to Middle Eastern R
     </item>
     
     <item>
+      <title>health informatics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/health-informatics/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/health-informatics/</guid>
+      <description>Multicenter analysis of COVID-19 hospitalizations and stacking machine learning algorithms for prediction of high-risk patients
+Authors: Shaw, R.; Bassily, D.; Patel, L.; O&amp;#39;Connor, T.; Rafidi, R.; Formanek, P.
+Score: 2.2, Published: 2023-06-22 DOI: 10.1101/2023.06.20.23291685
+ObjectiveTo create and validate an ensemble of machine learning algorithms to accurately predict ICU admission or mortality upon initial presentation to the emergency department. MethodsThis is a retrospective cohort study of a multicenter hospital system in the United States.</description>
+    </item>
+    
+    <item>
+      <title>health policy</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/health-policy/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/health-policy/</guid>
+      <description>Review of spatial planning policy as an intervention for improving public health: protocol for a health-focused content review of local plans in England
+Authors: Chang, M.; Carhart, N.
+Score: 8.7, Published: 2023-06-22 DOI: 10.1101/2023.06.22.23291736
+IntroductionEach local authority in England is required to create a statutory local plan that sets out their land use priorities as the basis of decision-making on urban development. Only recently has there been an explicit recognition the local plan is capable of being a legal determinant of and important public policy intervention in influencing population physical and mental health and wellbeing.</description>
+    </item>
+    
+    <item>
+      <title>hiv aids</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/hiv-aids/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/hiv-aids/</guid>
+      <description>HIV self-testing positivity rate and linkage to confirmatory testing and care: a telephone survey in Cote d&amp;#39;Ivoire, Mali and Senegal
+Authors: Kouassi, K. D. A.; Fotso, A. S.; Rouveau, N.; Maheu-Giroux, M.; Boily, M.-C.; Silhol, R.; d&amp;#39;Elbee, M.; Vautier, A.; Larmarange, J.; ATLAS Team, Score: 1.1, Published: 2023-06-12 DOI: 10.1101/2023.06.10.23291206
+AO_SCPLOWBSTRACTC_SCPLOWHIV self-testing (HIVST) empowers individuals by allowing them to decide when and where to test and with whom to share their results.</description>
+    </item>
+    
+    <item>
       <title>immunology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/immunology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/immunology/</guid>
       <description>Infection-induced vascular inflammation in COVID-19 links focal microglial dysfunction with neuropathologies through IL-1/IL-6-related systemic inflammatory states
@@ -149,7 +302,7 @@ COVID-19 is associated with diverse neurological abnormalities, which predict po
     <item>
       <title>infectious diseases</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/infectious-diseases/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/infectious-diseases/</guid>
       <description>Risk of Coronavirus Disease 2019 (COVID-19) among Those Up-to-Date and Not Up-to-Date on COVID-19 Vaccination
@@ -161,7 +314,7 @@ BackgroundThe CDC recently defined being &amp;#34;up-to-date&amp;#34; on COVID-1
     <item>
       <title>microbiology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/microbiology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/microbiology/</guid>
       <description>Type IV-A3 CRISPR-Cas systems drive inter-plasmid conflicts by acquiring spacers in trans
@@ -170,9 +323,21 @@ Score: 74.8, Published: 2023-06-23 DOI: 10.</description>
     </item>
     
     <item>
+      <title>molecular biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/molecular-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/molecular-biology/</guid>
+      <description>DNA methylation governs the sensitivity of repeats to restriction by the HUSH-MORC2 corepressor
+Authors: Pandiloski, N.; Horvath, V.; Karlsson, O. E.; Christoforidou, G.; Dorazehi, F.; Koutounidou, S.; Matas, J.; Gerdes, P.; Garza, R.; Jönsson, M. E.; Adami, A.; Atacho, D.; Johansson, J. G.; Englund, E.; Kokaia, Z.; Jakobsson, J.; Douse, C. H.
+Score: 13.1, Published: 2023-06-22 DOI: 10.1101/2023.06.21.545516
+The human silencing hub (HUSH) complex binds to transcripts of LINE-1 retrotransposons (L1s) and other genomic repeats, recruiting MORC2 and other effectors to remodel chromatin.</description>
+    </item>
+    
+    <item>
       <title>neurology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/neurology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/neurology/</guid>
       <description>Vagus nerve inflammation contributes to dysautonomia in COVID-19
@@ -184,7 +349,7 @@ Dysautonomia has substantially impacted acute COVID-19 severity as well as sympt
     <item>
       <title>neuroscience</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/neuroscience/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/neuroscience/</guid>
       <description>A window to the brain: ultrasound imaging of human neural activity through a permanent acoustic window
@@ -196,7 +361,7 @@ Recording human brain activity is crucial for understanding normal and aberrant 
     <item>
       <title>nutrition</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/nutrition/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/nutrition/</guid>
       <description>More spice, less salt: how capsaicin affects liking for and perceived saltiness of foods in people with smell loss.
@@ -206,9 +371,45 @@ People who lose their sense of smell self-report consuming more salt to compensa
     </item>
     
     <item>
+      <title>obstetrics and gynecology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/obstetrics-and-gynecology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/obstetrics-and-gynecology/</guid>
+      <description>Implementing midwifery twinning partnerships: challenges and facilitators. A rapid evidence summary
+Authors: Edwards, D.; Csontos, J. K.; Thomas, G.
+Score: 3.1, Published: 2023-06-14 DOI: 10.1101/2023.06.14.23291377
+Twinning is a partnership method that focuses on mutual transfer of knowledge and skills between two parties, including organisations, clinical practices, universities, or individual health professionals. In midwifery, twinning is a particularly important tool that can help countries with high maternal and infant morbidity and mortality rates to make connections with countries where sickness and death rates related to birth are lower and the role of midwives is better developed.</description>
+    </item>
+    
+    <item>
+      <title>oncology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/oncology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/oncology/</guid>
+      <description>Characterization of copy number alterations in Pakistani patients with colorectal cancer
+Authors: Marcinak, C. T.; McDonald, B. R.; Zubairi, H.; Siddique, S.; Stephens, M. D.; Moosajee, M.; Ahmed, R.; Zafar, S. N.; Murtaza, M.; Ghias, K.
+Score: 5.3, Published: 2023-06-20 DOI: 10.1101/2023.06.19.23291601
+PurposeIncidence and mortality rates of colorectal cancer (CRC) in South Asia are expected to rise by 70% between 2020 and 2040. Despite recent advances in the understanding of molecular alterations in CRC, the representation of South Asians in published genomic datasets is very limited.</description>
+    </item>
+    
+    <item>
+      <title>otolaryngology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/otolaryngology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/otolaryngology/</guid>
+      <description>Cross-modal sensory boosting to improve high-frequency hearing loss
+Authors: Kohler, I.; Perrotta, M. V.; Ferreira, T.; Eagleman, D. M.
+Score: 2.5, Published: 2023-06-06 DOI: 10.1101/2023.06.01.23290351
+High frequency hearing loss is one of the most common problems in the aging population and with those who have a history of exposure to loud noises. To address high-frequency hearing loss, we developed a multi-motor wristband that uses machine learning to listen for specific high frequency phonemes.</description>
+    </item>
+    
+    <item>
       <title>paleontology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/paleontology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/paleontology/</guid>
       <description>Evidence for deliberate burial of the dead by Homo naledi
@@ -216,9 +417,44 @@ Authors: Berger, L. R.; Makhubela, T.; Molopyane, K.; Kruger, A.; Randolph-Quinn
     </item>
     
     <item>
+      <title>pathology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/pathology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/pathology/</guid>
+      <description>TDP-43-stratified single-cell proteomic profiling of postmortem human spinal motor neurons reveals protein dynamics in amyotrophic lateral sclerosis
+Authors: Guise, A. J.; Misal, S. A.; Carson, R.; Boekweg, H.; Van Der Watt, D.; Truong, T.; Liang, Y.; Chu, J.-H.; Welsh, N.; Gagnon, J.; Payne, S. H.; Plowey, E. D.; Kelly, R. T.
+Score: 24.9, Published: 2023-06-10 DOI: 10.1101/2023.06.08.544233
+Unbiased proteomics has been employed to interrogate central nervous system (CNS) tissues (brain, spinal cord) and fluid matrices (CSF, plasma) from amyotrophic lateral sclerosis (ALS) patients; yet, a limitation of conventional bulk tissue studies is that motor neuron (MN) proteome signals may be confounded by admixed non-MN proteins.</description>
+    </item>
+    
+    <item>
+      <title>pediatrics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/pediatrics/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/pediatrics/</guid>
+      <description>The fungal intestinal microbiota predict the development of bronchopulmonary dysplasia in very low birthweight newborns
+Authors: Willis, K. A.; Silverberg, M.; Martin, I.; Abdelgawad, A.; Karabayir, I.; Halloran, B. A.; Myers, E. D.; Desai, J. P.; White, C. T.; Lal, C. V.; Ambalavanan, N.; Peters, B. M.; Jain, V. G.; Akbilgic, O.; Tipton, L.; Jilling, T.; Cormier, S. A.; Pierre, J. F.; Talati, A. J.
+Score: 9.7, Published: 2023-06-22 DOI: 10.</description>
+    </item>
+    
+    <item>
+      <title>pharmacology and therapeutics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/pharmacology-and-therapeutics/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/pharmacology-and-therapeutics/</guid>
+      <description>Low Dose Naltrexone use for the management of post acute sequelae of COVID 19
+Authors: Bonilla, H.; Tian, L.; Marconi, V.; Shafer, R. W.; Mccomsey, G.; Miglis, M. G.; Yang, P. C.; Geng, L. N.
+Score: 17.6, Published: 2023-06-12 DOI: 10.1101/2023.06.08.23291102
+Post-Acute Sequelae of SARS-CoV-2 (PASC), also known as Long COVID, is globally estimated to have affected up to 40-50% of individuals who were infected with SARS-CoV-2. The causes of PASC are being investigated, and there are no established therapies.</description>
+    </item>
+    
+    <item>
       <title>pharmacology and toxicology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/pharmacology-and-toxicology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/pharmacology-and-toxicology/</guid>
       <description>Dysregulated Platelet Function and Thrombosis in Patients with Post-Acute Sequelae of COVID-19
@@ -230,7 +466,7 @@ ObjectivePost-acute sequelae of COVID-19 (PASC, also referred as Long-COVID) som
     <item>
       <title>physiology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/physiology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/physiology/</guid>
       <description>Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift
@@ -241,7 +477,7 @@ Score: 40.</description>
     <item>
       <title>plant biology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/plant-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/plant-biology/</guid>
       <description>Mapping the landscape of transcription factor promoter activity during vegetative development in Marchantia
@@ -251,9 +487,21 @@ Transcription factors (TFs) are essential for the regulation of gene expression 
     </item>
     
     <item>
+      <title>primary care research</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/primary-care-research/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/primary-care-research/</guid>
+      <description>Red flags for potential serious pathologies masquerading as musculoskeletal neck pain: a protocol for a systematic review of clinical practice guidelines
+Authors: Feller, D.; Chiarotto, A.; Koes, B.; Maselli, F.; Mourad, F.
+Score: 3.2, Published: 2023-06-22 DOI: 10.1101/2023.06.20.23291691
+BackgroundAlthough benign most of the time, neck pain (NP) has been observed as the early manifestation of various serious cervical pathologies (e.g., malignancies, fractures). Red flags (RF) are signs and symptoms that raise suspicion of serious spinal pathology.</description>
+    </item>
+    
+    <item>
       <title>psychiatry and clinical psychology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/psychiatry-and-clinical-psychology/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/psychiatry-and-clinical-psychology/</guid>
       <description>Mapping neurodevelopmental diversity in executive function
@@ -265,7 +513,7 @@ Executive functions can be conceptualised as either a set of higher-order cognit
     <item>
       <title>public and global health</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/public-and-global-health/</link>
-      <pubDate>Wed, 28 Jun 2023 08:34:30 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/public-and-global-health/</guid>
       <description>A unified framework for estimating country-specific cumulative incidence for 18 diseases stratified by polygenic risk
@@ -273,66 +521,99 @@ Authors: Jermy, B.; Läll, K.; Wolford, B. N.; Wang, Y.; Zguro, K.; Cheng, Y.; 
     </item>
     
     <item>
-      <title>bioengineering</title>
-      <link>https://yorks0n.github.io/TRxiv2/posts/bioengineering/</link>
-      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      <title>radiology and imaging</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/radiology-and-imaging/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
-      <guid>https://yorks0n.github.io/TRxiv2/posts/bioengineering/</guid>
-      <description> </description>
+      <guid>https://yorks0n.github.io/TRxiv2/posts/radiology-and-imaging/</guid>
+      <description>Quantitative analysis of chest computed tomography of COVID-19 pneumonia using a software widely used in Japan
+Authors: Suzuki, M.; Fujii, Y.; Nishimura, Y.; Yasui, K.; Fujisawa, H.
+Score: 0.5, Published: 2023-06-27 DOI: 10.1101/2023.06.22.23291669
+This study aimed to determine the optimal conditions to measure the percentage of area considered as pneumonia (pneumonia volume ratio, PVR) and the computed tomography (CT) score due to coronavirus disease 2019 (COVID-19) using the Ziostation2 image analysis software (Z2; Ziosoft, Tokyo, Japan), which is popular in Japan, and to evaluate its usefulness in assessing the clinical severity.</description>
     </item>
     
     <item>
-      <title>ecology</title>
-      <link>https://yorks0n.github.io/TRxiv2/posts/ecology/</link>
-      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      <title>rehabilitation medicine and physical therapy</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/rehabilitation-medicine-and-physical-therapy/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
-      <guid>https://yorks0n.github.io/TRxiv2/posts/ecology/</guid>
-      <description> </description>
+      <guid>https://yorks0n.github.io/TRxiv2/posts/rehabilitation-medicine-and-physical-therapy/</guid>
+      <description>Lower Dynamic Cerebral Autoregulation following Acute Bout of Low-Volume High-Intensity Interval Exercise in Chronic Stroke Compared to Healthy Adults
+Authors: Whitaker, A. A.; Aaron, S. E.; Chertoff, M.; Brassard, P.; Buchanan, J.; Nguyen, K.; Vidoni, E.; Waghmare, S.; Eickmeyer, S.; Billinger, S.
+Score: 5.6, Published: 2023-06-20 DOI: 10.1101/2023.06.13.23291289
+Fluctuating blood pressure during high-intensity interval exercise (HIIT) may challenge dynamic cerebral autoregulation (dCA), specifically post-stroke after an injury to the cerebrovasculature.</description>
     </item>
     
     <item>
-      <title>molecular biology</title>
-      <link>https://yorks0n.github.io/TRxiv2/posts/molecular-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      <title>respiratory medicine</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/respiratory-medicine/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
-      <guid>https://yorks0n.github.io/TRxiv2/posts/molecular-biology/</guid>
-      <description> </description>
+      <guid>https://yorks0n.github.io/TRxiv2/posts/respiratory-medicine/</guid>
+      <description>Enhanced real-time mass spectrometry breath analysis for the diagnosis of COVID-19
+Authors: Roquencourt, C.; Salvator, H.; Bardin, E.; Lamy, E.; Farfour, E.; Naline, E.; Devillier, P.; Grassin Delyle, S.
+Score: 1.5, Published: 2023-06-22 DOI: 10.1101/2023.06.21.23291712
+BackgroundAlthough rapid screening for and diagnosis of COVID-19 are still urgently needed, most current testing methods are either long, costly, and/or poorly specific. The objective of the present study was to determine whether or not artificial-intelligence-enhanced real-time MS breath analysis is a reliable, safe, rapid means of screening ambulatory patients for COVID-19.</description>
+    </item>
+    
+    <item>
+      <title>scientific communication and education</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/scientific-communication-and-education/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/scientific-communication-and-education/</guid>
+      <description>Tiny Earth CURE improves student persistence in science
+Authors: Miller, S.; Aldana, C. C.; Du, W.; Lee, H.; Maldonado, N.; Sandoval, P.; Vong, J.; Young, G.; Handelsman, J.; Broderick, N. A.; Hernandez, P. R.; Estrada, M.
+Score: 7.5, Published: 2023-06-23 DOI: 10.1101/2023.06.21.543782
+Course-based undergraduate research experiences (CUREs) enhance student retention in STEM, particularly among students who belong to historically excluded communities. Yet the mechanisms by which CUREs contribute to student integration and persistence are poorly understood.</description>
     </item>
     
     <item>
       <title>synthetic biology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/synthetic-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/synthetic-biology/</guid>
-      <description> </description>
+      <description>A synthetic biology approach to assemble and reboot clinically-relevant Pseudomonas aeruginosa tailed phages
+Authors: Ipoutcha, T.; Racharaks, R.; Huttelmaier, S.; Wilson, C. J.; Ozer, E. A.; Hartmann, E. M.
+Score: 12.1, Published: 2023-06-24 DOI: 10.1101/2023.06.23.546310
+The rise in frequency of antibiotic resistance has made bacterial infections, specifically Pseudomonas aeruginosa, a cause for greater concern. Phage therapy is a promising solution that uses naturally isolated phages to treat bacterial infections. Ecological limitations, which stipulate a discrete host range and the inevitable evolution of resistance, may be overcome through a better understanding of phage biology and the utilization of engineered phages.</description>
     </item>
     
     <item>
       <title>systems biology</title>
       <link>https://yorks0n.github.io/TRxiv2/posts/systems-biology/</link>
-      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
       <guid>https://yorks0n.github.io/TRxiv2/posts/systems-biology/</guid>
-      <description> </description>
+      <description>Storm: Incorporating transient dynamics to infer the RNA velocity with metabolic labeling information
+Authors: Peng, Q.; Qiu, X.; Li, T.
+Score: 14.8, Published: 2023-06-23 DOI: 10.1101/2023.06.21.545990
+AO_SCPLOWBSTRACTC_SCPLOWThe time-resolved scRNA-seq (tscRNA-seq) provides the possibility to infer physically meaningful kinetic parameters, e.g., the transcription, splicing or RNA degradation rate constants with correct magnitudes, and RNA velocities by incorporating temporal information. Previous approaches utilizing the deterministic dynamics and steady-state assumption on gene expression states are insufficient to achieve favorable results for the data involving transient process.</description>
     </item>
     
     <item>
-      <title>allergy and immunology</title>
-      <link>https://yorks0n.github.io/TRxiv2/posts/allergy-and-immunology/</link>
-      <pubDate>Wed, 28 Jun 2023 13:39:13 +0800</pubDate>
+      <title>transplantation</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/transplantation/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
-      <guid>https://yorks0n.github.io/TRxiv2/posts/allergy-and-immunology/</guid>
-      <description> </description>
+      <guid>https://yorks0n.github.io/TRxiv2/posts/transplantation/</guid>
+      <description>Role of renal venous oxygen pressure for renal function monitoring after related living-donor kidney transplantation: cohort study
+Authors: Escarraman-Martinez, D.; Fernandez-Bravo, M.; Kammar-Garcia, A.; Guerrero-Gutierrez, M. A.; Meza-Comparan, H. D.; Mancilla-Galindo, J.; Sanchez-Diaz, J. S.; Cendejas-Rios, E.; Escorza-Molina, C. A.; Noriega-Salas, L.; Bernaldez-Gomez, G.
+Score: 2.6, Published: 2023-06-22 DOI: 10.1101/2023.06.15.23291421
+IntroductionMonitoring of renal function after kidney transplantation (KT) is performed by measuring serum creatinine (SCr), urine volumes (UV), and glomerular filtration rate (GFR).</description>
     </item>
     
     <item>
-      <title>health informatics</title>
-      <link>https://yorks0n.github.io/TRxiv2/posts/health-informatics/</link>
-      <pubDate>Wed, 28 Jun 2023 13:39:13 +0800</pubDate>
+      <title>zoology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/zoology/</link>
+      <pubDate>Wed, 28 Jun 2023 09:51:07 +0000</pubDate>
       
-      <guid>https://yorks0n.github.io/TRxiv2/posts/health-informatics/</guid>
-      <description> </description>
+      <guid>https://yorks0n.github.io/TRxiv2/posts/zoology/</guid>
+      <description>Physiological phenotypes differ among color morphs in introduced populations of the common wall lizard, Podarcis muralis
+Authors: Amer, A.; Spears, S.; Vaughn, P. L.; Colwell, C.; Livingston, E. H.; McQueen, W.; Schill, A.; Reichard, D.; Gangloff, E. J.; Brock, K. M.
+Score: 7.9, Published: 2023-06-21 DOI: 10.1101/2023.06.17.545449
+Many species exhibit color polymorphisms which have distinct physiological and behavioral characteristics. However, the consistency of morph trait covariation patterns across species, time, and ecological contexts remains unclear.</description>
     </item>
     
     <item>
