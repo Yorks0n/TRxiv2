@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on TRxiv2</title>
+    <link>https://yorks0n.github.io/TRxiv2/posts/</link>
+    <description>Recent content in Posts on TRxiv2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 14:29:33 +0800</lastBuildDate><atom:link href="https://yorks0n.github.io/TRxiv2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>animal behavior and cognition</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/animal-behavior-and-cognition/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/animal-behavior-and-cognition/</guid>
+      <description>Snow flies self-amputate freezing limbs to sustain behavior at sub-zero temperatures
+Authors: Golding, D.; Rupp, K.; Sustar, A.; Pratt, B.; Tuthill, J.
+Score: 277.7, Published: 2023-05-30 DOI: 10.1101/2023.05.29.541388
+All living things are profoundly affected by temperature. In spite of the thermodynamic constraints on biology, some animals have evolved to live and move in extremely cold environments. Here, we investigate behavioral mechanisms of cold tolerance in the snow fly (Chionea spp.</description>
+    </item>
+    
+    <item>
+      <title>biochemistry</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/biochemistry/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/biochemistry/</guid>
+      <description>Intrinsically Disordered Regions Promote Protein Refoldability and Facilitate Retrieval from Biomolecular Condensates
+Authors: To, P.; Bhagwat, A. M.; Tarbox, H. E.; Ecer, A.; Wendorff, H.; Jamieson, Z.; Trcek, T.; Fried, S. D.
+Score: 107.9, Published: 2023-06-25 DOI: 10.1101/2023.06.25.546465
+Many eukaryotic proteins contain intrinsically disordered regions (IDRs) that intersperse globular folded domains, in contrast with bacterial proteins which are typically highly globular. Recent years have seen great progress in identifying biological functions associated with these elusive protein sequence: in specific cases, they mediate liquid-liquid phase separation, perform molecular recognition, or act as sensors to changes in the environment.</description>
+    </item>
+    
+    <item>
+      <title>bioinformatics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/bioinformatics/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/bioinformatics/</guid>
+      <description>QuantUMS: uncertainty minimisation enables confident quantification in proteomics
+Authors: Kistner, F.; Grossmann, J. L.; Sinn, L. R.; Demichev, V.
+Score: 49.3, Published: 2023-06-24 DOI: 10.1101/2023.06.20.545604
+Mass spectrometry-based proteomics has been rapidly gaining traction as a powerful analytical method both in basic research and translation. While the problem of error control in peptide and protein identification has been addressed extensively, the quality of the resulting quantities remains challenging to evaluate. Here we introduce QuantUMS (Quantification using an Uncertainty Minimising Solution), a machine learning-based method which minimises errors and eliminates bias in peptide and protein quantification by integrating multiple sources of quantitative information.</description>
+    </item>
+    
+    <item>
+      <title>biophysics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/biophysics/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/biophysics/</guid>
+      <description>Studying stochastic systems biology of the cell with single-cell genomics data
+Authors: Gorin, G.; Vastola, J. J.; Pachter, L.
+Score: 24.7, Published: 2023-05-29 DOI: 10.1101/2023.05.17.541250
+Recent experimental developments in genome-wide RNA quantification hold considerable promise for systems biology. However, rigorously probing the biology of living cells requires a unified mathematical framework that accounts for single-molecule biological stochasticity in the context of technical variation associated with genomics assays. We review models for a variety of RNA transcription processes, as well as the encapsulation and library construction steps of microfluidics-based single-cell RNA sequencing, and present a framework to integrate these phenomena by the manipulation of generating functions.</description>
+    </item>
+    
+    <item>
+      <title>cancer biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/cancer-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/cancer-biology/</guid>
+      <description>Deep intravital brain tumor imaging enabled by tailored three-photon microscopy and analysis
+Authors: Schubert, M. C.; Soyka, S. J.; Tamimi, A.; Maus, E.; Denninger, R.; Wissmann, N.; Reyhan, E.; Tetzlaff, S. K.; Beretta, C.; Drumm, M.; Schroers, J.; Steffens, A.; Walshon, J.; McCortney, K.; Heiland, S.; Golebiewska, A.; Kurz, F. T.; Wick, W.; Winkler, F.; Kreshuk, A.; Kuner, T.; Horbinski, C.; Prevedel, R.; Venkataramani, V.
+Score: 44.5, Published: 2023-06-21 DOI: 10.</description>
+    </item>
+    
+    <item>
+      <title>cell biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/cell-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/cell-biology/</guid>
+      <description>Combinatorial selective ER-phagy remodels the ER during neurogenesis
+Authors: Hoyer, M. J.; Smith, I. R.; Paoli, J. C.; Jiang, Y.; Paulo, J. A.; Harper, W.
+Score: 24.5, Published: 2023-06-26 DOI: 10.1101/2023.06.26.546565
+The endoplasmic reticulum (ER) has a vast proteomic landscape to perform many diverse functions including protein and lipid synthesis, calcium ion flux, and inter-organelle communication. The ER proteome is remodeled in part through membrane-embedded receptors linking ER to degradative autophagy machinery (selective ER-phagy).</description>
+    </item>
+    
+    <item>
+      <title>developmental biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/developmental-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/developmental-biology/</guid>
+      <description>Transgene-Free Ex Utero Derivation of A Human Post-Implantation Embryo Model Solely from Genetically Unmodified Naive PSCs
+Authors: Oldak, B.; Wildschutz, E.; Bondarenko, V.; Aguilera-Castrejon, A.; Zhao, C.; Tarazi, S.; Comar, M.-Y.; Ashouokhi, S.; Lokshtanov, D.; Roncato, F.; Viukov, S.; Ariel, E.; Rose, M.; Livnat, N.; Shani, T.; Joubran, C.; Cohen, R.; Addadi, Y.; Kedmi, M.; Keren-Shaul, H.; Petropoulos, S.; Lanner, F.; Novershtern, N.; Hanna, J. H.
+Score: 1057.3, Published: 2023-06-15 DOI: 10.</description>
+    </item>
+    
+    <item>
+      <title>evolutionary biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/evolutionary-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/evolutionary-biology/</guid>
+      <description>241,000 to 335,000 Years Old Rock Engravings Made by Homo naledi in the Rising Star Cave system, South Africa.
+Authors: Berger, L. R.; Hawks, J.; Fuentes, A.; van Rooyen, D.; Tsikoane, M.; Ramalepa, M.; Nkwe, S.; Molopyane, K.
+Score: 1756.7, Published: 2023-06-05 DOI: 10.1101/2023.06.01.543133
+The production of painted, etched or engraved designs on cave walls or other surfaces is recognized as a major cognitive step in human evolution. Such intentional designs, which are widely interpreted as signifying, recording, and transmitting information in a durable manner were once considered exclusive to Late Pleistocene Homo sapiens.</description>
+    </item>
+    
+    <item>
+      <title>genetic and genomic medicine</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/genetic-and-genomic-medicine/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/genetic-and-genomic-medicine/</guid>
+      <description>The relationship between genotype- and phenotype-based estimates of genetic liability to human psychiatric disorders, in practice and in theory.
+Authors: Dybdahl Krebs, M.; Appadurai, V.; Georgii Hellberg, K.-L.; Ohlsson, H.; Steinbach, J.; Pedersen, E. M.; iPSYCH Study Consortium, ; Werge, T.; Sundquist, J.; Sundquist, K.; Cai, N.; Zaitlen, N.; Dahl, A. W.; Vilhjalmsson, B. J.; Flint, J.; Bacanu, S.-A.; Schork, A. J.; Kendler, K. S.
+Score: 24.3, Published: 2023-06-23 DOI: 10.</description>
+    </item>
+    
+    <item>
+      <title>genetics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/genetics/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/genetics/</guid>
+      <description>Fetally-encoded GDF15 and maternal GDF15 sensitivity are major determinants of nausea and vomiting in human pregnancy
+Authors: Fejzo, M.; Rocha, N.; Cimino, I.; Lockhart, S. M.; Petry, C.; Kay, R. G.; Burling, K.; Barker, P.; George, A. L.; Yasara, N.; Premawardhena, A.; Gong, S.; Cook, E.; Rainbow, K.; Withers, D.; Cortessis, V.; Mullin, P.; MacGibbon, K.; Jin, E.; Kam, A.; Campbell, A.; Polasek, O.; Tzoneva, G.; Gribble, F.; Yeo, G.</description>
+    </item>
+    
+    <item>
+      <title>genomics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/genomics/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/genomics/</guid>
+      <description>Identification of a novel HKU4-related coronavirus in single-cell datasets and clade viral host analysis
+Authors: Jones, A.; Massey, S. E.; Nemzer, L. R.; Zhang, D.; Deigin, Y.; Quay, S. C.
+Score: 49.4, Published: 2023-06-21 DOI: 10.1101/2023.06.18.545480
+HKU4-related coronaviruses (CoVs) are merbecoviruses related to Middle Eastern Respiratory Syndrome coronavirus (MERS-CoV). In 2022 and 2023, two HKU4-related CoV strains were discovered in Manis javanica (Malayan pangolin) metagenomic datasets derived from organ samples: HKU4-P251T and MjHKU4r-CoV-1.</description>
+    </item>
+    
+    <item>
+      <title>immunology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/immunology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/immunology/</guid>
+      <description>Infection-induced vascular inflammation in COVID-19 links focal microglial dysfunction with neuropathologies through IL-1/IL-6-related systemic inflammatory states
+Authors: Fekete, R.; Simats, A.; Biro, E.; Cserep, C.; Schwarcz, A. D.; Posfai, B.; Szabadits, E.; Kornyei, Z.; Toth, K.; Kellermayer, A.; David, C.; Acsady, L.; Kontra, L.; Silvestre-Roig, C.; Moldvay, J.; Fillinger, J.; Hortobagyi, T.; Liesz, A.; Benko, S.; Denes, A.
+Score: 20.8, Published: 2023-06-23 DOI: 10.1101/2023.06.23.546214
+COVID-19 is associated with diverse neurological abnormalities, which predict poor outcome in patients.</description>
+    </item>
+    
+    <item>
+      <title>infectious diseases</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/infectious-diseases/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/infectious-diseases/</guid>
+      <description>Risk of Coronavirus Disease 2019 (COVID-19) among Those Up-to-Date and Not Up-to-Date on COVID-19 Vaccination
+Authors: Shrestha, N. K.; Burke, P. C.; Nowacki, A. S.; Gordon, S. M.
+Score: 5163.6, Published: 2023-06-12 DOI: 10.1101/2023.06.09.23290893
+BackgroundThe CDC recently defined being &amp;#34;up-to-date&amp;#34; on COVID-19 vaccination as having received at least one dose of a COVID-19 bivalent vaccine. The purpose of this study was to compare the risk of COVID-19 among those &amp;#34;up-to-date&amp;#34; and &amp;#34;not up-to-date&amp;#34; on COVID-19 vaccination.</description>
+    </item>
+    
+    <item>
+      <title>microbiology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/microbiology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/microbiology/</guid>
+      <description>Type IV-A3 CRISPR-Cas systems drive inter-plasmid conflicts by acquiring spacers in trans
+Authors: Benz, F.; Camara-Wilpert, S.; Russel, J.; Wandera, K. G.; Cepaite, R.; Ares-Arroyo, M.; Gomes-Filho, J. V.; Englert, F.; Kuehn, J.; Gloor, S.; Cuenod, A.; Aguila-Sans, M.; Maccario, L.; Egli, A.; Randau, L.; Pausch, P.; Rocha, E.; Beisel, C. L.; Madsen, J. S.; Bikard, D.; Hall, A. R.; Soerensen, S. J.; Pinilla-Redondo, R.
+Score: 73.8, Published: 2023-06-23 DOI: 10.</description>
+    </item>
+    
+    <item>
+      <title>neurology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/neurology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/neurology/</guid>
+      <description>Vagus nerve inflammation contributes to dysautonomia in COVID-19
+Authors: Woo, M. S.; Shafiq, M.; Fitzek, A.; Dottermusch, M.; Altmeppen, H.; Mohammadi, B.; Mayer, C.; Bal, L. C.; Raich, L.; Matschke, J.; Krasemann, S.; Pfefferle, S.; Brehm, T. T. S.; Luetgehetmann, M.; Schaedler, J.; Addo, M. M.; Schulze Zur Wiesch, J.; Ondruschka, B.; Friese, M. A.; Glatzel, M.
+Score: 90.7, Published: 2023-06-20 DOI: 10.1101/2023.06.14.23291320
+Dysautonomia has substantially impacted acute COVID-19 severity as well as symptom burden after recovery from COVID-19 (long COVID), yet the underlying causes remain unknown.</description>
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/neuroscience/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/neuroscience/</guid>
+      <description>A window to the brain: ultrasound imaging of human neural activity through a permanent acoustic window
+Authors: Rabut, C.; Norman, S. L.; Griggs, W. S.; Russin, J. J.; Jann, K.; Christopoulos, V.; Liu, C.; Andersen, R. A.; Shapiro, M. G.
+Score: 425.1, Published: 2023-06-15 DOI: 10.1101/2023.06.14.544094
+Recording human brain activity is crucial for understanding normal and aberrant brain function. However, available recording methods are either highly invasive or have relatively low sensitivity.</description>
+    </item>
+    
+    <item>
+      <title>nutrition</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/nutrition/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/nutrition/</guid>
+      <description>More spice, less salt: how capsaicin affects liking for and perceived saltiness of foods in people with smell loss.
+Authors: Hunter, S.; Beatty, C.; Dalton, P. H.
+Score: 39.7, Published: 2023-06-05 DOI: 10.1101/2023.06.05.23290966
+People who lose their sense of smell self-report consuming more salt to compensate for a lack of flavor and enhance eating enjoyment. However, this can contribute to excess sodium intake and a poor diet. Capsaicin may help increase salt taste intensity and eating enjoyment in this population, but this has not been studied.</description>
+    </item>
+    
+    <item>
+      <title>paleontology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/paleontology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/paleontology/</guid>
+      <description>Evidence for deliberate burial of the dead by Homo naledi
+Authors: Berger, L. R.; Makhubela, T.; Molopyane, K.; Kruger, A.; Randolph-Quinney, P.; Elliott, M.; Peixotto, B.; Fuentes, A.; Tafforeau, P.; Beyrand, V.; Dollman, K.; Jinnah, Z.; Brewer Gillham, A.; Broad, K.; Brophy, J.; Chinamatira, G.; Dirks, P.; Feuerriegel, E.; Gurtov, A.; Hlophe, N.; Hunter, L.; Hunte, R.; Jakata, K.; Jaskolski, C.; Morris, H.; Pryor, E.; Ramaphela, M.; Roberts, E.; Smilg, J.</description>
+    </item>
+    
+    <item>
+      <title>pharmacology and toxicology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/pharmacology-and-toxicology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/pharmacology-and-toxicology/</guid>
+      <description>Dysregulated Platelet Function and Thrombosis in Patients with Post-Acute Sequelae of COVID-19
+Authors: Aggarwal, A.; Singh, T. K.; Pham, M.; Godwin, M.; Chen, R.; McIntyre, T. M.; Chung, M. K.; Jennings, C.; Ali, M.; Park, H.; Englund, K.; Khorana, A. A.; Svensson, L.; Kapadia, S. R.; McCrae, K. R.; Cameron, S. J.
+Score: 57.7, Published: 2023-06-19 DOI: 10.1101/2023.06.18.545507
+ObjectivePost-acute sequelae of COVID-19 (PASC, also referred as Long-COVID) sometimes follows COVID-19, a disease caused by SARS-CoV-2.</description>
+    </item>
+    
+    <item>
+      <title>physiology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/physiology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/physiology/</guid>
+      <description>Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift
+Authors: Plotkin, D. L.; Rodas, M. A.; Vigotsky, A.; McIntosh, M. C.; Breeze, E.; Ubrik, R.; Robitzsch, C.; Agyin-Birikorang, A.; Mattingly, M. L.; Michel, J. M.; Kontos, N. J.; Fruge, A. D.; Wilborn, C. M.; Weimar, W. H.; Bashir, A.; Beyers, R. J.; Henselmans, M.; Contreras, B. M.; Roberts, M. D.
+Score: 40.</description>
+    </item>
+    
+    <item>
+      <title>plant biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/plant-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/plant-biology/</guid>
+      <description>Mapping the landscape of transcription factor promoter activity during vegetative development in Marchantia
+Authors: Romani, F.; Sauret-Güeto, S.; Rebmann, M.; Annese, D.; Bonter, I.; Tomaselli, M.; Dierschke, T.; Delmans, M.; Frangedakis, E.; Silvestri, L.; Rever, J.; Bowman, J. L.; Romani, I.; Haseloff, J.
+Score: 46.0, Published: 2023-06-20 DOI: 10.1101/2023.06.17.545419
+Transcription factors (TFs) are essential for the regulation of gene expression and cell fate determination. Characterising the transcriptional activity of TF genes in space and time is a critical step towards understanding complex biological systems.</description>
+    </item>
+    
+    <item>
+      <title>psychiatry and clinical psychology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/psychiatry-and-clinical-psychology/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/psychiatry-and-clinical-psychology/</guid>
+      <description>Mapping neurodevelopmental diversity in executive function
+Authors: Mareva, S.; The CALM Team, ; Holmes, J.
+Score: 22.2, Published: 2023-06-16 DOI: 10.1101/2023.06.15.23291392
+Executive functions can be conceptualised as either a set of higher-order cognitive skills that enable us to engage in flexible thinking and regulate our thoughts and behaviours, or as the ability to integrate knowledge, beliefs, and values when applying cognitive control in everyday situations. These two perspectives map onto the ways in which executive function is measured in childhood - using either structured laboratory tasks or ratings of everyday behaviours.</description>
+    </item>
+    
+    <item>
+      <title>public and global health</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/public-and-global-health/</link>
+      <pubDate>Wed, 28 Jun 2023 14:29:33 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/public-and-global-health/</guid>
+      <description>A unified framework for estimating country-specific cumulative incidence for 18 diseases stratified by polygenic risk
+Authors: Jermy, B.; Läll, K.; Wolford, B. N.; Wang, Y.; Zguro, K.; Cheng, Y.; Kanai, M.; Kanoni, S.; Yang, Z.; Hartnonen, T.; Monti, R.; Wanner, J.; Youssef, O.; Estonian Biobank research team, ; FinnGen, ; Lippert, C.; van Heel, D. A.; Okada, Y.; McCartney, D. L.; Hayward, C.; Marioni, R.; Furini, S.; Renieri, A.; Martin, A.</description>
+    </item>
+    
+    <item>
+      <title>bioengineering</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/bioengineering/</link>
+      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/bioengineering/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>ecology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/ecology/</link>
+      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/ecology/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>molecular biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/molecular-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/molecular-biology/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>synthetic biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/synthetic-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/synthetic-biology/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>systems biology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/systems-biology/</link>
+      <pubDate>Wed, 28 Jun 2023 13:54:32 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/systems-biology/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>allergy and immunology</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/allergy-and-immunology/</link>
+      <pubDate>Wed, 28 Jun 2023 13:39:13 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/allergy-and-immunology/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>health informatics</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/health-informatics/</link>
+      <pubDate>Wed, 28 Jun 2023 13:39:13 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/health-informatics/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>health systems and quality improvement</title>
+      <link>https://yorks0n.github.io/TRxiv2/posts/health-systems-and-quality-improvement/</link>
+      <pubDate>Wed, 28 Jun 2023 13:39:13 +0800</pubDate>
+      
+      <guid>https://yorks0n.github.io/TRxiv2/posts/health-systems-and-quality-improvement/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
