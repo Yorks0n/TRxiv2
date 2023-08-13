@@ -6,250 +6,249 @@
     <description>Recent content on TRxiv2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Aug 2023 10:39:33 +0000</lastBuildDate><atom:link href="https://trxiv.yorks0n.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Aug 2023 10:36:01 +0000</lastBuildDate><atom:link href="https://trxiv.yorks0n.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>animal behavior and cognition</title>
       <link>https://trxiv.yorks0n.com/posts/animal-behavior-and-cognition/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/animal-behavior-and-cognition/</guid>
       <description>Seeking voluntary passive movement in flies is play-like behavior
 Authors: Triphan, T.; Huetteroth, W.
-Score: 58.9, Published: 2023-08-04 DOI: 10.1101/2023.08.03.551880
+Score: 61.4, Published: 2023-08-04 DOI: 10.1101/2023.08.03.551880
 Play-like behaviour (PLB) is pervasive across the animal kingdom, especially in vertebrate species. Invertebrate PLB has been sparsely addressed and those studies have been restricted to social or object interaction. Here, we examined individual PLB in the vinegar fly Drosophila melanogaster by providing voluntary access to a spinning platform - a carousel.</description>
     </item>
     
     <item>
       <title>biochemistry</title>
       <link>https://trxiv.yorks0n.com/posts/biochemistry/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/biochemistry/</guid>
-      <description>Protein Ensemble Generation through VariationalAutoencoder Latent Space Sampling
-Authors: Mansoor, S.; Baek, M.; Park, H.; Lee, G. R.; Baker, D.
-Score: 28.9, Published: 2023-08-01 DOI: 10.1101/2023.08.01.551540
-Mapping the ensemble of protein conformations that contribute to function and can be targeted by small molecule drugs remains an outstanding challenge. Here we explore the use of soft-introspective variational autoencoders for reducing the challenge of dimensionality in the protein structure ensemble generation problem.</description>
+      <description>DNA end sensing and cleavage by the Shedu anti-phage defense system
+Authors: Loeff, L.; Walter, A.; Rosalen, G. T.; Jinek, M.
+Score: 29.8, Published: 2023-08-12 DOI: 10.1101/2023.08.10.552762
+The detection of molecular patterns associated with invading pathogens is a hallmark of innate immune systems. Prokaryotes deploy sophisticated host-defense mechanisms in innate anti-phage immunity. Shedu is a single-component defense system comprising a putative nuclease SduA. Here we report cryo-EM structures of apo- and dsDNA-bound tetrameric SduA assemblies, revealing that the N-terminal domains of SduA form a clamp that recognizes free DNA ends.</description>
     </item>
     
     <item>
       <title>bioengineering</title>
       <link>https://trxiv.yorks0n.com/posts/bioengineering/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/bioengineering/</guid>
-      <description>Single-cell precision nanotechnology in vivo
-Authors: MOLBAY, M.; Kick, B.; Zhao, S.; Todorov, M. I.; Ohn, T.-L.; Roth, S.; Simats, A.; Singh, V.; Khalin, I.; Pan, C.; Singh Bhatia, H.; Hellal, F.; Zeidler, R.; Liesz, A.; Plesnila, N.; Dietz, H.; Erturk, A.
-Score: 143.8, Published: 2023-07-26 DOI: 10.1101/2023.07.24.550304
-Targeting nanoparticle therapeutics with cellular accuracy in whole organisms could open breakthrough opportunities in precision medicine. However, evaluating and fine-tuning the biodistribution of such systems in the whole organism at the cellular level remains a major obstacle.</description>
+      <description>SonoPrint: Acoustically Assisted Volumetric 3D Printing for Composites
+Authors: Agrawal, P.; Zhuang, S.; Dreher, S.; Mitter, S.; Ahmed, D.
+Score: 9.6, Published: 2023-08-08 DOI: 10.1101/2023.08.07.552292
+Advancements in additive manufacturing in composites have transformed various fields in aerospace, medical devices, tissue engineering, and electronics, enabling fine-tuning material properties by reinforcing internal particles and adjusting their type, orientation, and volume fraction. This capability opens new possibilities for tailoring materials to specific applications and optimizing the performance of 3D-printed objects.</description>
     </item>
     
     <item>
       <title>bioinformatics</title>
       <link>https://trxiv.yorks0n.com/posts/bioinformatics/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/bioinformatics/</guid>
-      <description>phytools 2.0: An updated R ecosystem for phylogenetic comparative methods (and other things)
-Authors: Revell, L. J.
-Score: 205.4, Published: 2023-08-03 DOI: 10.1101/2023.03.08.531791
-Phylogenetic comparative methods comprise the general endeavor of using an estimated phylogenetic tree (or set of trees) to make secondary inferences: about trait evolution, diversification dynamics, biogeography, community ecology, and a wide range of other phenomena or processes. Over the past ten years or so, the phytools R package (Revell 2012) has grown to become an important research tools for phylogenetic comparative analysis.</description>
+      <description>Benchmarking computational methods for single-cell chromatin data analysis
+Authors: Luo, S.; Germain, P.-L.; Robinson, M. D.; von Meyenn, F.
+Score: 22.2, Published: 2023-08-07 DOI: 10.1101/2023.08.04.552046
+Single-cell chromatin accessibility assays, such as scATAC-seq, are increasingly employed in individual and joint multi-omic profiling of single cells. As the accumulation of scATAC-seq and multi-omics datasets continue, challenges in analyzing such sparse, noisy, and high-dimensional data become pressing. Specifically, one challenge relates to optimizing the processing of chromatin-level measurements and efficiently extracting information to discern cellular heterogeneity.</description>
     </item>
     
     <item>
       <title>biophysics</title>
       <link>https://trxiv.yorks0n.com/posts/biophysics/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/biophysics/</guid>
-      <description>Cell Membranes Sustain Phospholipid Imbalance Via Cholesterol Asymmetry
-Authors: Doktorova, M.; Symons, J. L.; Zhang, X.; Wang, H.-Y.; Schlegel, J.; Lorent, J. H.; Heberle, F. A.; Sezgin, E.; Lyman, E.; Levental, K. R.; Levental, I.
-Score: 112.7, Published: 2023-07-31 DOI: 10.1101/2023.07.30.551157
-Membranes are molecular interfaces that insulate cells from external stresses, compartmentalize the cytoplasm, and control the flow of nutrients and information1. These functions are facilitated by diverse collections of lipids, nearly all of which are distributed asymmetrically between the two leaflets of living bilayers2,3.</description>
+      <description>Approximating conformational Boltzmann distributions with AlphaFold2 predictions
+Authors: Brown, B. P.; Stein, R. A.; Meiler, J.; Mchaourab, H.
+Score: 24.6, Published: 2023-08-07 DOI: 10.1101/2023.08.06.552168
+Protein dynamics are intimately tied to biological function and can enable processes such as signal transduction, enzyme catalysis, and molecular recognition. The relative free energies of conformations that contribute to these functional equilibria are evolved for the physiology of the organism. Despite the importance of these equilibria for understanding biological function and developing treatments for disease, the computational and experimental methods capable of quantifying them are limited to systems of modest size.</description>
     </item>
     
     <item>
       <title>cancer biology</title>
       <link>https://trxiv.yorks0n.com/posts/cancer-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/cancer-biology/</guid>
       <description>Major data analysis errors invalidate cancer microbiome findings
 Authors: Gihawi, A.; Ge, Y.; Lu, J.; Puiu, D.; Xu, A.; Cooper, C. S.; Brewer, D. S.; Pertea, M.; Salzberg, S.
-Score: 625.9, Published: 2023-07-31 DOI: 10.1101/2023.07.28.550993
+Score: 643.5, Published: 2023-07-31 DOI: 10.1101/2023.07.28.550993
 We re-analyzed the data from a recent large-scale study that reported strong correlations between microbial organisms and 33 different cancer types, and that created machine learning predictors with near-perfect accuracy at distinguishing among cancers. We found at least two fundamental flaws in the reported data and in the methods: (1) errors in the genome database and the associated computational methods led to millions of false positive findings of bacterial reads across all samples, largely because most of the sequences identified as bacteria were instead human; and (2) errors in transformation of the raw data created an artificial signature, even for microbes with no reads detected, tagging each tumor type with a distinct signal that the machine learning programs then used to create an apparently accurate classifier.</description>
     </item>
     
     <item>
       <title>cardiovascular medicine</title>
       <link>https://trxiv.yorks0n.com/posts/cardiovascular-medicine/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/cardiovascular-medicine/</guid>
       <description>Influenza Vaccination and Major Cardiovascular Risk: A Systematic Review and Meta-Analysis of Clinical Trials Studies
 Authors: Omidi, F.; Zangiabadian, M.; Shahidi Bonjar, A. H.; Nasiri, M. J.; Sarmastzadeh, T.
-Score: 5.1, Published: 2023-08-08 DOI: 10.1101/2023.08.04.23293585
-Background: Cardiovascular events remain a substantial global health concern, necessitating innovative strategies for prevention. This study aims to assess the potential impact of influenza vaccination on major cardiovascular events. Methods: A search of the medical English literature was conducted using PubMed/MEDLINE, EMBASE, and the Cochrane CENTRAL up to 1 August 2023.</description>
+Score: 5.7, Published: 2023-08-08 DOI: 10.1101/2023.08.04.23293585
+BackgroundCardiovascular events remain a substantial global health concern, necessitating innovative strategies for prevention. This study aims to assess the potential impact of influenza vaccination on major cardiovascular events. MethodsA search of the medical English literature was conducted using PubMed/MEDLINE, EMBASE, and the Cochrane CENTRAL up to 1 August 2023.</description>
     </item>
     
     <item>
       <title>cell biology</title>
       <link>https://trxiv.yorks0n.com/posts/cell-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/cell-biology/</guid>
-      <description>Sulfolobus acidocaldarius adhesion pili power twitching motility in the absence of a dedicated retraction ATPase
-Authors: Charles-Orszag, A.; van Wolferen, M.; Lord, S. J.; Albers, S.-V.; Mullins, D.
-Score: 30.4, Published: 2023-08-04 DOI: 10.1101/2023.08.04.552066
-Type IV pili are ancient and widespread filamentous organelles found in most bacterial and archaeal phyla where they support a wide range of functions, including substrate adhesion, DNA uptake, self aggregation, and cell motility. In most bacteria, PilT-family ATPases disassemble adhesion pili, causing them to rapidly retract and produce twitching motility, important for surface colonization.</description>
+      <description>The actin binding protein profilin 1 is critical for mitochondria function
+Authors: Read, T.-A.; Cisterna, B. A.; Skruber, K.; Ahmadieh, S.; Lindamood, H. L.; Vitriol, J.; Shi, Y.; Lefebvre, A. E. Y. T.; Black, J. B.; Butler, M. T.; Bear, J. E.; Cherezova, A.; Ilatovskaya, D. V.; Weintraub, N. L.; Vitriol, E. A.
+Score: 35.2, Published: 2023-08-08 DOI: 10.1101/2023.08.07.552354
+Profilin 1 (PFN1) is an actin binding protein that is vital for the polymerization of monomeric actin into filaments.</description>
     </item>
     
     <item>
       <title>developmental biology</title>
       <link>https://trxiv.yorks0n.com/posts/developmental-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/developmental-biology/</guid>
-      <description>Loss of PAX6 alters the excitatory/inhibitory neuronal ratio in human cerebral organoids
-Authors: Chan, W. K.; Negro, D.; Munro, V. M.; Marshall, H. L.; Kozic, Z.; Brown, M.; Beltran, M.; Henderson, N.; Price, D. J.; Mason, J. O.
-Score: 21.1, Published: 2023-08-01 DOI: 10.1101/2023.07.31.551262
-The transcription factor PAX6 is a crucial regulator of multiple aspects of embryonic forebrain development. Its well-known roles in mice include regulating differentiation of excitatory and inhibitory neurons in the embryonic cortex.</description>
+      <description>Reversal of Biological Age in Multiple Rat Organs by Young Porcine Plasma Fraction
+Authors: Horvath, S.; Singh, K.; Raj, K.; Khairnar, S.; Sanghavi, A.; Shrivastava, A.; Zoller, J. A.; Li, C. Z.; Herenu, C. B.; Canatelli-Mallat, M.; Lehmann, M.; Habazin, S.; Vuckovic, F.; Solberg-Woods, L.; Garcia Martinez, A.; Wang, T.; Chiavellini, P.; Levine, A. J.; Chen, H.; Brooke, R. T.; Gordevicius, J.; Lauc, G.; Goya, R. G.; Katcher, H. L.</description>
     </item>
     
     <item>
       <title>ecology</title>
       <link>https://trxiv.yorks0n.com/posts/ecology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/ecology/</guid>
-      <description>Global meta-analysis reveals overall benefits of silvopastoral systems for biodiversity
-Authors: Perez-Alvarez, R.; Chara, J.; Snyder, L. D.; Bonatti, M.; Sieber, S.; Martin, E. A.
-Score: 16.0, Published: 2023-07-31 DOI: 10.1101/2023.07.30.551160
-Domestic livestock grazing accounts for roughly one quarter of the worlds terrestrial surface and is a leading driver of biodiversity loss. Yet, it also provides a critical livelihood for nearly one billion smallholder farmers, creating a paradox that highlights the need for conservation strategies to balance human and ecological needs.</description>
-    </item>
-    
-    <item>
-      <title>emergency medicine</title>
-      <link>https://trxiv.yorks0n.com/posts/emergency-medicine/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
-      
-      <guid>https://trxiv.yorks0n.com/posts/emergency-medicine/</guid>
-      <description>Worldwide trends in COVID-19 related attacks against healthcare
-Authors: Duffhues, W.; Barten, D.; De Cauwer, H.; Mortelmans, L.; van Osch, F.; Tin, D.; Koopmans, M.; Ciottone, G.
-Score: 24.0, Published: 2023-07-23 DOI: 10.1101/2023.07.18.23292819
-BackgroundDuring the COVID-19 pandemic, violence targeting healthcare reportedly increased. Attacks against healthcare have the potential to impair the public health response and threaten the availability of healthcare services. However, there is little systematic understanding of the extent and characteristics of healthcare attacks in the setting of a pandemic.</description>
+      <description>Local climate change velocities explain multidirectional range shifts in a North American butterfly assemblage
+Authors: da Silva, C. R. B.; Diamond, S. E.
+Score: 6.0, Published: 2023-08-02 DOI: 10.1101/2023.07.31.551397
+Species are often expected to shift their distributions poleward to evade warming climates. However, from 18 years of fixed transect monitoring data on 88 species of butterfly in the midwestern United States, we show that butterflies are shifting their centroids in all directions, except towards regions that are becoming warmer.</description>
     </item>
     
     <item>
       <title>endocrinology</title>
       <link>https://trxiv.yorks0n.com/posts/endocrinology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/endocrinology/</guid>
-      <description>Spatial Transcriptomic Analysis of Pituitary Corticotroph Tumors Unveils Intratumor Heterogeneity
-Authors: Pina, J. O.; Faucz, F. R.; Padilla, C.; Floudas, C. S.; Chittiboina, P.; Quezado, M.; Tatsi, C.
-Score: 1.6, Published: 2023-08-08 DOI: 10.1101/2023.08.04.23293576
-Spatial transcriptomic (ST) analysis of tumors provides a novel approach on studying gene expression along with the localization of tumor cells in their environment to uncover spatial interactions. Herein, we present ST analysis of corticotroph pituitary neuroendocrine tumors (PitNETs) from formalin-fixed, paraffin-embedded (FFPE) tissues.</description>
+      <description>Phenotype-based targeted treatment of SGLT2 inhibitors and GLP-1 receptor agonists in type 2 diabetes
+Authors: Cardoso, P.; Young, K. G.; Nair, A. T. N.; Hopkins, R.; McGovern, A. P.; Haider, E.; Karunaratne, P.; Donnelly, L.; Mateen, B. A.; Sattar, N.; Holman, R. R.; Bowden, J.; Hattersley, A.; Pearson, E. R.; Jones, A. G.; Shields, B.; McKinley, T. J.; Dennis, J. M.
+Score: 14.3, Published: 2023-08-08 DOI: 10.1101/2023.08.04.23293636
+A precision medicine approach in type 2 diabetes (T2D) could enhance targeting specific glucose-lowering therapies to individual patients most likely to benefit.</description>
     </item>
     
     <item>
       <title>epidemiology</title>
       <link>https://trxiv.yorks0n.com/posts/epidemiology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/epidemiology/</guid>
-      <description>Influence of Prior SARS-CoV-2 Infection on COVID-19 Severity: Evidence from the National COVID Cohort Collaborative
-Authors: Hendrix, N.; Sidky, H.; Sahner, D.; N3C Consortium, Score: 363.7, Published: 2023-08-06 DOI: 10.1101/2023.08.03.23293612
-BackgroundAs SARS-CoV-2 has transitioned from a pandemic to endemic disease, the majority of new infections have been among previously infected individuals. To manage the risks and benefits of ongoing COVID-19 policies, it is important to understand whether prior infection modifies the severity of subsequent infections.</description>
+      <description>Long COVID in a highly vaccinated population infected during a SARS-CoV-2 Omicron wave - Australia, 2022
+Authors: Woldegiorgis, M.; Cadby, G.; Ngeh, S.; Korda, R.; Armstrong, P.; Maticevic, J.; Knight, P.; Jardine, A.; Bloomfield, L.; Effler, P.
+Score: 1366.1, Published: 2023-08-09 DOI: 10.1101/2023.08.06.23293706
+ObjectiveTo characterise Long COVID in a highly vaccinated population infected by Omicron. DesignFollow-up survey of persons testing positive for SARS-CoV-2 in Western Australia, 16 July-3 August 2022.</description>
     </item>
     
     <item>
       <title>evolutionary biology</title>
       <link>https://trxiv.yorks0n.com/posts/evolutionary-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/evolutionary-biology/</guid>
       <description>Functional Adaptations of Endogenous Retroviruses to the Drosophila Host Underlie their Evolutionary Diversification
 Authors: Senti, K.-A.; Handler, D.; Rafanel, B.; Kosiol, C.; Schloetterer, C.; Brennecke, J.
-Score: 50.6, Published: 2023-08-04 DOI: 10.1101/2023.08.03.551782
+Score: 52.7, Published: 2023-08-04 DOI: 10.1101/2023.08.03.551782
 Transposable elements profoundly affect the biology and evolution of their hosts, yet their own evolutionary dynamics remain poorly understood. Here, we investigate insect endogenous retroviruses (iERVs), a monophyletic group of LTR retrotransposons that have acquired the trait of infectivity, likely through capture of a Baculovirus envelope gene.</description>
     </item>
     
     <item>
       <title>genetic and genomic medicine</title>
       <link>https://trxiv.yorks0n.com/posts/genetic-and-genomic-medicine/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/genetic-and-genomic-medicine/</guid>
       <description>Copy-number variants as modulators of common disease susceptibility
 Authors: Auwerx, C.; Joeloo, M.; Sadler, M. C.; Tesio, N.; Ojavee, S. E.; Clark, C. J.; Mägi, R.; Estonian Biobank Research Team, ; Reymond, A.; Kutalik, Z.
-Score: 15.9, Published: 2023-08-05 DOI: 10.1101/2023.07.31.23293408
+Score: 16.5, Published: 2023-08-05 DOI: 10.1101/2023.07.31.23293408
 BackgroundCopy-number variations (CNVs) have been associated with rare and debilitating genomic syndromes but their impact on health later in life in the general population remains poorly described. MethodsAssessing four modes of CNV action, we performed genome-wide association scans (GWASs) between the copy-number of CNV-proxy probes and 60 curated ICD-10 based clinical diagnoses in 331,522 unrelated white UK Biobank participants with replication in the Estonian Biobank.</description>
     </item>
     
     <item>
       <title>genetics</title>
       <link>https://trxiv.yorks0n.com/posts/genetics/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/genetics/</guid>
       <description>Broad functional profiling of fission yeast proteins using phenomics and machine learning
 Authors: Rodriguez-Lopez, M.; Bordin, N.; Lees, J.; Scholes, H.; Hassan, S.; Saintain, Q.; Kamrad, S.; Orengo, C.; Bähler, J.
-Score: 60.5, Published: 2023-07-17 DOI: 10.1101/2023.04.05.535764
+Score: 68.9, Published: 2023-07-17 DOI: 10.1101/2023.04.05.535764
 Many proteins remain poorly characterized even in well-studied organisms, presenting a bottleneck for research. We applied phenomics and machine-learning approaches with Schizosaccharomyces pombe for broad cues on protein functions. We assayed colony-growth phenotypes to measure the fitness of deletion mutants for 3509 non-essential genes in 131 conditions with different nutrients, drugs, and stresses.</description>
     </item>
     
     <item>
       <title>genomics</title>
       <link>https://trxiv.yorks0n.com/posts/genomics/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/genomics/</guid>
-      <description>A computational pipeline for spatial mechano-transcriptomics
-Authors: Hallou, A.; He, R.; Simons, B. D.; Dumitrascu, B.
-Score: 21.3, Published: 2023-08-05 DOI: 10.1101/2023.08.03.551894
-Advances in spatial profiling technologies are providing insights into how molecular programs are influenced by local signaling and environmental cues. However, cell fate specification and tissue patterning involve the interplay of biochemical and mechanical feedback. Here, we develop a computational framework that enables the joint statistical analysis of transcriptional and mechanical signals in the context of spatial transcriptomics.</description>
+      <description>Phage-plasmids promote genetic exchanges between phages and plasmids and create novel ones.
+Authors: Pfeifer, E.; Rocha, E. P. C.
+Score: 27.5, Published: 2023-08-11 DOI: 10.1101/2023.08.08.552325
+Phages and plasmids have key roles in bacterial evolution and are usually very different. Yet, they must recombine, since they sometimes carry nearly identical accessory genes. Phage-plasmids are both plasmids and phages and we found they connect them by being at their interface in the network of gene repertoire relatedness.</description>
     </item>
     
     <item>
       <title>geriatric medicine</title>
       <link>https://trxiv.yorks0n.com/posts/geriatric-medicine/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/geriatric-medicine/</guid>
-      <description>The principal component-based clinical aging clock (PCAge) identifies signatures of healthy aging and provides normative targets for clinical intervention
-Authors: Fong, S.; Pabis, K.; Latumalea, D.; Dugersuren, N.; Unfried, M.; Tolwinski, N.; Kennedy, B.; Gruber, J.
-Score: 25.3, Published: 2023-07-16 DOI: 10.1101/2023.07.14.23292604
-Clinical healthy aging recommendations are disease-centric and reactive rather than focusing on holistic, organismal aging. In contrast, biological age (BA) estimation informs risk stratification by predicting all-cause mortality, however current BA clocks do not pinpoint aging mechanisms making it difficult to intervene clinically.</description>
+      <description>The experience of family carers for people with moderate to advanced dementia within a domestic home setting: a systematically constructed narrative synthesis
+Authors: James, C.; Walshe, C.; Swarbrick, C.
+Score: 3.0, Published: 2023-08-03 DOI: 10.1101/2023.07.31.23293402
+BackgroundCaring for someone with moderate to advanced dementia within a domestic home setting can be burdensome and time-consuming. To ensure the effectiveness of care planning and delivery, especially towards the end of life, understanding the nature and impact of such caregiving on the family carer is important.</description>
     </item>
     
     <item>
       <title>health informatics</title>
       <link>https://trxiv.yorks0n.com/posts/health-informatics/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/health-informatics/</guid>
       <description>Coding Inequity: Assessing GPT-4&amp;#39;s Potential for Perpetuating Racial and Gender Biases in Healthcare
 Authors: Zack, T.; Lehman, E.; Suzgun, M.; Rodriguez, J. A.; Celi, L. A.; Gichoya, J.; Jurafsky, D.; Szolovits, P.; Bates, D. W.; Abdulnour, R.-E. E.; Butte, A. J.; Alsentzer, E.
-Score: 17.9, Published: 2023-07-17 DOI: 10.1101/2023.07.13.23292577
+Score: 20.4, Published: 2023-07-17 DOI: 10.1101/2023.07.13.23292577
 BackgroundLarge language models (LLMs) such as GPT-4 hold great promise as transformative tools in healthcare, ranging from automating administrative tasks to augmenting clinical decision- making.</description>
     </item>
     
     <item>
       <title>health policy</title>
       <link>https://trxiv.yorks0n.com/posts/health-policy/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/health-policy/</guid>
-      <description>Recommended distances for physical distancing during COVID-19 pandemics reveal cultural connections between countries
-Authors: Chai, D.; El Mossadeq, L.; Raymond, M.; Orgogozo, V.
-Score: 3.8, Published: 2023-08-02 DOI: 10.1101/2023.08.01.23293497
-During COVID-19 pandemic several public health measures were implemented by diverse countries to reduce the risk of COVID-19, including social distancing. Here we collected the minimal distance recommended by each country for physical distancing at the onset of the pandemic and aimed to examine whether it had an impact on the outbreak dynamics and how this specific value was chosen.</description>
+      <description>Measuring Mental Health in a Cost-of-Living Crisis: a rapid review
+Authors: England, C.; Jarrom, D.; Washington, J.; Hasler, E.; Batten, L.; Lewis, R.; Edwards, R. T.; Davies, J.; Collins, B.; Cooper, A.; Edwards, A. G.
+Score: 2.6, Published: 2023-07-24 DOI: 10.1101/2023.07.24.23293078
+Since 2021 the UK has experienced a sharp rise in inflation. For many, wages and welfare payments have not kept up with rising costs, leading to a cost of living crisis.</description>
+    </item>
+    
+    <item>
+      <title>health systems and quality improvement</title>
+      <link>https://trxiv.yorks0n.com/posts/health-systems-and-quality-improvement/</link>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
+      
+      <guid>https://trxiv.yorks0n.com/posts/health-systems-and-quality-improvement/</guid>
+      <description>Study Protocol for the Intraoperative Complications Assessment and Reporting with Universal Standards (ICARUS) Global Cross-Specialty Surveys Among Surgeons, Anesthesiologists, Nurses, Interventional Cardiologists, and Interventional Radiologists
+Authors: Cacciamani, G. E.; Sholklapper, T.; Eppler, M. B.; Sayegh, A.; Storino Ramacciotti, L.; Abreu, A. L.; Sotelo, R.; Desai, M. M.; Gill, I. S.
+Score: 3.0, Published: 2023-08-10 DOI: 10.1101/2023.08.08.23293789
+Every year, approximately 200 million surgeries are performed worldwide, and intraoperative adverse events (iAEs) have a significant impact on patients and surgeons.</description>
     </item>
     
     <item>
       <title>hiv aids</title>
       <link>https://trxiv.yorks0n.com/posts/hiv-aids/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/hiv-aids/</guid>
       <description>Vascular injury markers associated with cognitive impairment in people with HIV on suppressive antiretroviral therapy
@@ -261,19 +260,19 @@ ObjectiveHuman immunodeficiency virus (HIV)-associated neurocognitive disorders 
     <item>
       <title>immunology</title>
       <link>https://trxiv.yorks0n.com/posts/immunology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/immunology/</guid>
-      <description>The T cell receptor sequence influences the likelihood of T cell memory formation
-Authors: Lagattuta, K. A.; Nathan, A.; Rumker, L.; Birnbaum, M. E.; Raychaudhuri, S.
-Score: 55.3, Published: 2023-07-23 DOI: 10.1101/2023.07.20.549939
-T cell differentiation depends on activation through the T cell receptor (TCR), whose amino acid sequence varies cell to cell. Particular TCR amino acid sequences nearly guarantee Mucosal-Associated Invariant T (MAIT) and Natural Killer T (NKT) cell fates.</description>
+      <description>Megakaryocyte infection by SARS-CoV-2 drives the formation of pathogenic afucosylated IgG antibodies in mice
+Authors: Mabrouk, M.; Jalali, F.; Zaid, N.; Naya, A.; Khyatti, M.; Khalki, L.; Guessous, F.; Zaid, Y.
+Score: 697.3, Published: 2023-07-20 DOI: 10.1101/2023.07.14.549113
+More than 90% of total human plasma immunoglobulin G (IgG) is found in a fucosylated form, but specific IgGs with low core fucosylation (afucosylated IgGs) are found in response to infections with enveloped viruses and to alloantigens on blood cells.</description>
     </item>
     
     <item>
       <title>infectious diseases</title>
       <link>https://trxiv.yorks0n.com/posts/infectious-diseases/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/infectious-diseases/</guid>
       <description>Multimodal Molecular Imaging Reveals Tissue-Based T Cell Activation and Viral RNA Persistence for Up to Two Years Following COVID-19
@@ -283,90 +282,90 @@ Authors: Peluso, M. J.; Ryder, D. M.; Flavell, R.; Wang, Y.; Levi, J.; LaFranchi
     <item>
       <title>microbiology</title>
       <link>https://trxiv.yorks0n.com/posts/microbiology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/microbiology/</guid>
-      <description>Phenotyping the virulence of SARS-CoV-2 variants in hamsters by digital pathology and machine learning
-Authors: Meehan, G. R.; Herder, V.; Allan, J.; Huang, X.; Kerr, K.; Mendonca, D. C.; Ilia, G.; Wright, D.; Nomikou, K.; Gu, Q.; Arias, S. M.; De Lorenzo, G.; Cowton, V.; Upfold, N.; Palmalux, N.; Brown, J. C.; Barclay, W.; Filipe, A. D. S.; Furnon, W.; Patel, A.; Palmarini, M.
-Score: 916.1, Published: 2023-08-01 DOI: 10.</description>
+      <description>Antiviral efficacy of the SARS-CoV-2 XBB breakthrough infection sera against Omicron subvariants including EG.5
+Authors: Kaku, Y.; Kosugi, Y.; Uriu, K.; Ito, J.; Kuramochi, J.; Sadamasu, K.; Yoshimura, K.; Asakura, H.; Nagashima, M.; The Genotype to Phenotype Japan (G2P-Japan) Consortium, ; Sato, K.
+Score: 940.4, Published: 2023-08-08 DOI: 10.1101/2023.08.08.552415
+As of July 2023, EG.5.1 (a.k.a. XBB.1.9.2.5.1), a XBB subvariant bearing the S:Q52H and S:F456L substitutions, alongside the S:F486P substitution (Figure S1A), has rapidly spread in some countries.</description>
     </item>
     
     <item>
       <title>molecular biology</title>
       <link>https://trxiv.yorks0n.com/posts/molecular-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/molecular-biology/</guid>
-      <description>Intra-host variation in the spike S1/S2 region of a feline coronavirus type-1 in a cat with persistent infection
-Authors: Olarte-Castillo, X. A.; Licitra, B. N.; Andre, N. M.; Sierra, M. A.; Mason, C. E.; Goodman, L. B.; Whittaker, G.
-Score: 44.5, Published: 2023-08-02 DOI: 10.1101/2023.07.31.551356
-Feline coronavirus type 1 (FCoV-1) is widely known for causing feline infectious peritonitis (FIP), a systemic infection that is often fatal, with the virus known as the FIPV biotype.</description>
+      <description>Eukaryotic RNA-guided endonucleases evolved from a unique clade of bacterial enzymes
+Authors: Yoon, P. H.; Skopintsev, P.; Shi, H.; Chen, L.-X.; Adler, B. A.; Al-Shimary, M.; Craig, R. J.; Li, Z.; Amerasekera, J.; Trinidad, M.; Nisonoff, H.; Chen, K.; Lahiri, A.; Boger, R.; Jacobsen, S.; Banfield, J. F.; Doudna, J. A.
+Score: 51.5, Published: 2023-08-10 DOI: 10.1101/2023.08.09.552727
+RNA-guided endonucleases form the crux of diverse biological processes and technologies, including adaptive immunity, transposition, and genome editing.</description>
     </item>
     
     <item>
       <title>neurology</title>
       <link>https://trxiv.yorks0n.com/posts/neurology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/neurology/</guid>
-      <description>The use of machine learning methods in neurodegenerative disease research: A scoping review
-Authors: Ciampi, A.; Rouette, J.; Pellegrini, F.; Simoneau, G.; Caba, B.; Gafson, A.; de Moor, C.; Belachew, S.
-Score: 14.8, Published: 2023-07-31 DOI: 10.1101/2023.07.31.23293414
-Machine learning (ML) methods are increasingly used in clinical research, but their extent is complex and largely unknown in the field of neurodegenerative diseases (ND). This scoping review describes state-of-the-art ML in ND research using MEDLINE (PubMed), Embase (Ovid), Central (Cochrane), and Institute of Electrical and Electronics Engineers Xplore.</description>
+      <description>Personalized chronic adaptive deep brain stimulation outperforms conventional stimulation in Parkinson&amp;#39;s disease
+Authors: Oehrn, C. R.; Cernera, S.; Hammer, L. H.; Shcherbakova, M.; Yao, J.; Hahn, A.; Wang, S.; Ostrem, J. L.; Little, S.; Starr, P. A.
+Score: 19.9, Published: 2023-08-08 DOI: 10.1101/2023.08.03.23293450
+1.Deep brain stimulation is a widely used therapy for Parkinsons disease (PD) but currently lacks dynamic responsiveness to changing clinical and neural states. Feedback control has the potential to improve therapeutic effectiveness, but optimal control strategy and additional benefits of &amp;#34;adaptive&amp;#34; neurostimulation are unclear.</description>
     </item>
     
     <item>
       <title>neuroscience</title>
       <link>https://trxiv.yorks0n.com/posts/neuroscience/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/neuroscience/</guid>
       <description>Learning produces a hippocampal cognitive map in the form of an orthogonalized state machine
 Authors: Sun, W.; Winnubst, J.; Natrajan, M.; Lai, C.; Kajikawa, K.; Michaelos, M.; Gattoni, R.; Fitzgerald, J. E.; Spruston, N.
-Score: 64.7, Published: 2023-08-07 DOI: 10.1101/2023.08.03.551900
+Score: 83.5, Published: 2023-08-07 DOI: 10.1101/2023.08.03.551900
 Cognitive maps confer animals with flexible intelligence by representing spatial, temporal, and abstract relationships that can be used to shape thought, planning, and behavior. Cognitive maps have been observed in the hippocampus, but their algorithmic form and the processes by which they are learned remain obscure.</description>
     </item>
     
     <item>
       <title>nutrition</title>
       <link>https://trxiv.yorks0n.com/posts/nutrition/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/nutrition/</guid>
       <description>Evidence-Based Practice Competencies among Nutrition Professionals and Students: A Systematic Review
 Authors: Ghosh, N. R.; Esmaeilinezhad, Z.; Zajac, J.; Creasy, R. A.; Lorenz, S. G.; Crews, M.; Beathard, K. M.; Bala, M. M.; Klatt, K. C.; Johnston, B. C.
 Score: 1.2, Published: 2023-08-07 DOI: 10.1101/2023.08.03.23293580
-Background: Evidence-based practice (EBP) promotes shared decision-making between clinicians and patients and has been widely adopted by various health professions including nutrition &amp;amp; dietetics, medicine and nursing.</description>
+BackgroundEvidence-based practice (EBP) promotes shared decision-making between clinicians and patients and has been widely adopted by various health professions including nutrition &amp;amp; dietetics, medicine and nursing.</description>
     </item>
     
     <item>
       <title>oncology</title>
       <link>https://trxiv.yorks0n.com/posts/oncology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/oncology/</guid>
-      <description>Mistletoe as a Therapeutic Option in Cancer Patients: a scoping review protocol
-Authors: Cordeiro, M. M.; Malta, F. A. P. S.; Goncalves, D. C.
-Score: 2.5, Published: 2023-07-30 DOI: 10.1101/2023.07.29.23293280
-ObjectiveThis scoping review aims to identify, map and provide an overview of the studies investigating the therapeutic use of Viscum Album L. (mistletoe) in cancer patients. By identifying pivotal patterns and research gaps in the existing literature on Viscum therapy, this review intends to offer valuable insights and supportive information to better inform future research efforts in this field.</description>
+      <description>Validation of Automated Visual Evaluation (AVE) on Smartphone Images for Cervical Cancer Screening in a Prospective Study in Zambia
+Authors: Hu, L.; Mwanahamuntu, M. H.; Sahasrabuddhe, V. V.; Barrett, C.; Horning, M. P.; Shah, I.; Laverriere, Z.; Banik, D.; Ji, Y.; Shibemba, A. L.; Chisele, S.; Munalula, M. K.; Kaunga, F.; Musonda, F.; Malyangu, E.; Hariharan, K. M.; Parham, G. P.
+Score: 2.1, Published: 2023-07-26 DOI: 10.1101/2023.07.19.23292888
+I.ObjectivesVisual inspection with acetic acid (VIA) is a low-cost approach for cervical cancer screening in most low- and middle-income countries (LMICs) but lacks objectivity and requires sustained training and quality assurance.</description>
     </item>
     
     <item>
       <title>ophthalmology</title>
       <link>https://trxiv.yorks0n.com/posts/ophthalmology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/ophthalmology/</guid>
-      <description>Multi-omic spatial effects on high-resolution AI-derived retinal thickness
-Authors: Jackson, V. E.; Wu, Y.; Bonelli, R.; Owen, J.; Farashi, S.; Kihara, Y.; Gantner, M. L.; Egan, C.; Williams, K. M.; Ansell, B. R.; Tufail, A.; Lee, A. Y.; Bahlo, M.
-Score: 3.5, Published: 2023-08-02 DOI: 10.1101/2023.07.31.23293176
-Retinal thickness is a marker of retinal health and more broadly, is seen as a promising biomarker for many systemic diseases. Retinal thickness measurements are procured from optical coherence tomography (OCT) as part of routine clinical eyecare.</description>
+      <description>Large language models approach expert-level clinical knowledge and reasoning in ophthalmology: A head-to-head cross-sectional study
+Authors: Thirunavukarasu, A. J.; Mahmood, S.; Malem, A.; Foster, W. P.; Sanghera, R.; Hassan, R.; Zhou, S.; Wong, S. W.; Wong, Y. L.; Chong, Y. J.; Shakeel, A.; Chang, Y.-H.; Tan, B. K. J.; Jain, N.; Tan, T. F.; Rauz, S.; Ting, D. S. W.; Ting, D. S. J.
+Score: 1.5, Published: 2023-08-06 DOI: 10.</description>
     </item>
     
     <item>
       <title>paleontology</title>
       <link>https://trxiv.yorks0n.com/posts/paleontology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/paleontology/</guid>
       <description>Lack of early animal fossils: insights from taphonomic experiments on placozoans and their traces
@@ -378,29 +377,19 @@ Placozoa are simple two-layered multicellular animals. Can such a simple animal 
     <item>
       <title>pathology</title>
       <link>https://trxiv.yorks0n.com/posts/pathology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/pathology/</guid>
       <description>An end-to-end workflow for non-destructive 3D pathology
 Authors: Bishop, K. W.; Barner, L. A. E.; Han, Q.; Baraznenok, E.; Lan, L.; Poudel, C.; Gao, G.; Serafin, R. B.; Chow, S. S. L.; Glaser, A. K.; Janowczyk, A.; Brenes, D.; Huang, H.; Miyasato, D.; True, L. D.; Kang, S.; Vaughan, J. C.; Liu, J. T. C.
-Score: 119.3, Published: 2023-08-06 DOI: 10.1101/2023.08.03.551845
+Score: 126.0, Published: 2023-08-06 DOI: 10.1101/2023.08.03.551845
 Recent advances in 3D pathology offer the ability to image orders-of-magnitude more tissue than conventional pathology while providing a volumetric context that is lacking with 2D tissue sections, all without requiring destructive tissue sectioning.</description>
-    </item>
-    
-    <item>
-      <title>pediatrics</title>
-      <link>https://trxiv.yorks0n.com/posts/pediatrics/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
-      
-      <guid>https://trxiv.yorks0n.com/posts/pediatrics/</guid>
-      <description>Plasma protein biomarkers distinguish Multisystem Inflammatory Syndrome in Children (MIS-C) from other pediatric infectious and inflammatory diseases
-Authors: Yeoh, S.; Estrada-Rivadeneyra, D.; Jackson, H.; Keren, I.; Galassini, R.; Cooray, S.; Shah, P.; Agyeman, P.; Basmaci, R.; Carrol, E.; Emonts, M.; Fink, C.; Kuijpers, T.; Martinon-Torres, F.; Mommert-Tripon, M.; Paulus, S.; Pokorn, M.; Rojo, P.; Romani, L.; Schlapbach, L.; Schweintzger, N.; Shen, C.-F.; Tsolia, M.; Usuf, E.; van der Flier, M.</description>
     </item>
     
     <item>
       <title>pharmacology and toxicology</title>
       <link>https://trxiv.yorks0n.com/posts/pharmacology-and-toxicology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/pharmacology-and-toxicology/</guid>
       <description>RNA splicing modulator induces peripheral neuropathy with increased neurofilament light chain levels via p53 signaling
@@ -412,67 +401,91 @@ RNA splicing modulators are a new class of small molecules with the potential to
     <item>
       <title>physiology</title>
       <link>https://trxiv.yorks0n.com/posts/physiology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/physiology/</guid>
-      <description>Analysis of RyR2 distribution in HEK293 cells and mouse cardiac myocytes using 3D MINFLUX microscopy
-Authors: Clowsley, A. H.; Meletiou, A.; Lucinskaite, E.; Jansen, I.; Jones, P. P.; Louch, W. E.; Soeller, C.
-Score: 11.9, Published: 2023-07-28 DOI: 10.1101/2023.07.26.550636
-The cardiac type 2 ryanodine receptor (RyR2) is a large homotetramer of a [~]560 kD subunit and is the molecular pathway through which the majority of Ca2&amp;#43; enters the cytosol during cardiac activation.</description>
+      <description>Inflammation causes insulin resistance via interferon regulatory factor 3 (IRF3)-mediated reduction in FAHFA levels
+Authors: Yan, S.; Santoro, A.; Niphakis, M. J.; Pinto, A. M.; Jacobs, C. L.; Ahmad, R.; Suciu, R. M.; Fonslow, B. R.; Herbst-Graham, R. B.; Ngo, N.; Henry, C. L.; Herbst, D. M.; Saghatelian, A.; Kahn, B. B.; Rosen, E. D.
+Score: 6.0, Published: 2023-08-09 DOI: 10.1101/2023.08.08.552481
+Obesity-induced inflammation causes metabolic dysfunction, but the mechanisms remain elusive.</description>
     </item>
     
     <item>
       <title>plant biology</title>
       <link>https://trxiv.yorks0n.com/posts/plant-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/plant-biology/</guid>
       <description>Mucilage produced by sorghum (Sorghum bicolor) aerial roots supports a nitrogen-fixing community
 Authors: Venado, R. E.; Wilker, J.; Pankievicz, V.; Infante, V.; MacIntyre, A.; Wolf, E.; Vela, S.; Robbins, F. A.; Fernandes-Junior, P. I.; Vermerris, W.; Ane, J.-M.
-Score: 68.9, Published: 2023-08-06 DOI: 10.1101/2023.08.05.552127
-Sorghum (Sorghum bicolor) is gaining popularity as a sustainable energy crop due to its high biomass and potential for biofuel production. Some rare sorghum accessions develop many aerial roots that produce viscous carbohydrate-rich mucilage after rain.</description>
+Score: 74.6, Published: 2023-08-06 DOI: 10.1101/2023.08.05.552127
+O_LISorghum (Sorghum bicolor) is gaining popularity as a sustainable energy crop due to its high biomass and potential for biofuel production. Some rare sorghum accessions develop many aerial roots that produce viscous carbohydrate-rich mucilage after rain.</description>
     </item>
     
     <item>
       <title>psychiatry and clinical psychology</title>
       <link>https://trxiv.yorks0n.com/posts/psychiatry-and-clinical-psychology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/psychiatry-and-clinical-psychology/</guid>
-      <description>Familial risk of postpartum psychosis
-Authors: Kepinska, A. P.; Robakis, T.; Humphreys, K.; Liu, X.; Kahn, R. S.; Munk-Olsen, T.; Bergink, V.; Mahjani, B.
-Score: 20.4, Published: 2023-07-26 DOI: 10.1101/2023.07.20.23292910
-BackgroundPostpartum psychosis, a mood disorder triggered by childbirth, is one of the most severe psychiatric conditions, with high risks of suicide and infanticide if untreated. While it is evident that genetic factors play a crucial role in disorder risk, the exact extent of their importance is yet to be determined.</description>
+      <description>Examining Differences in the Genetic and Functional Architecture of ADHD Diagnosed in Childhood and Adulthood
+Authors: Breunig, S.; Lawrence, J. M.; Foote, I. F.; Gebhardt, H. J.; Willcutt, E. G.; Grotzinger, A. D.
+Score: 22.3, Published: 2023-08-07 DOI: 10.1101/2023.08.02.23293439
+BackgroundAttention-deficit hyperactivity disorder (ADHD) is a neurodevelopmental disorder that is diagnosed when symptoms onset in childhood. Here we investigate whether individuals who are diagnosed as children differ from those who are diagnosed in adulthood with respect to shared and unique architecture at the genome-wide, functional, and gene expression level of analysis.</description>
     </item>
     
     <item>
       <title>public and global health</title>
       <link>https://trxiv.yorks0n.com/posts/public-and-global-health/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/public-and-global-health/</guid>
-      <description>Impact of Community Masking on SARS-CoV-2 Transmission in Ontario after Adjustment for Differential Testing by Age and Sex
-Authors: Peng, A.; Bosco, S.; Tuite, A.; Simmons, A.; Fisman, D.
-Score: 892.6, Published: 2023-07-28 DOI: 10.1101/2023.07.26.23293155
-BackgroundUse of masks and respirators for prevention of respiratory infectious disease transmission is not new, but has proven controversial, and even politically polarizing during the SARS-CoV-2 pandemic. In the Canadian province of Ontario, mask mandates were introduced by the 34 regional health authorities in an irregular fashion from June to September 2020, creating a quasi-experiment that can be used to evaluate impact of community mask mandates.</description>
+      <description>Digital Exclusion as a barrier to accessing healthcare: A summary composite indicator and online tool to explore and quantify local differences in levels of exclusion.
+Authors: Mee, P.; Gussy, M.; Huntley, P.; Kenny, A.; Jarratt, T.; Kenward, N.; Ward, D.; Vaughan, A.
+Score: 15.4, Published: 2023-08-02 DOI: 10.1101/2023.07.12.23292547
+Digital exclusion leads to marginalization and inequality. A lack of tools to measure local exclusion hampers targeted interventions. In this study a composite indicator for digital exclusion and associated toolkit was developed.</description>
     </item>
     
     <item>
       <title>radiology and imaging</title>
       <link>https://trxiv.yorks0n.com/posts/radiology-and-imaging/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/radiology-and-imaging/</guid>
-      <description>Frequency of Atypical Pulmonary Manifestations of COVID-19 Patients on Chest CTscan: A cross-sectional study
-Authors: Borji, S.; Isavand, P.; Azami, M.; Ghafouri, E.
-Score: 3.2, Published: 2023-08-02 DOI: 10.1101/2023.07.28.23293261
-BackgroundChest CT examination is significant in COVID-19 diagnosis due to its high sensitivity. Although typical chest CT findings have been discussed thoroughly in the literature throughout the pandemic, we aimed to investigate the prevalence of the atypical conclusions during the start of the Omicron variant insurgency and compare the results to studies conducted before its outbreak.</description>
+      <description>The predictive role of pain catastrophising following genicular arterial embolisation for the treatment of mild and moderate knee osteoarthritis
+Authors: Harrison, R.; Salomons, T.; MacGill, S.; Little, M.
+Score: 5.4, Published: 2023-08-02 DOI: 10.1101/2023.07.31.23290995
+Knee osteoarthritis (OA) is the most common form of OA and is not currently considered to be a curable disease. Specifically, mild-to-moderate knee OA that is resistant to conservative treatment, but does not warrant joint replacement, poses a significant clinical problem.</description>
+    </item>
+    
+    <item>
+      <title>respiratory medicine</title>
+      <link>https://trxiv.yorks0n.com/posts/respiratory-medicine/</link>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
+      
+      <guid>https://trxiv.yorks0n.com/posts/respiratory-medicine/</guid>
+      <description>Randomized attention-placebo controlled trial of a digital self-management platform for adult asthma
+Authors: Kandola, A.; Edwards, K.; Straatman, J.; Duehrkoop, B.; Hein, B.; Hayes, J. F.
+Score: 53.3, Published: 2023-07-23 DOI: 10.1101/2023.07.19.23292865
+BackgroundAsthma is one of the most common chronic conditions worldwide, with a substantial individual, societal and healthcare burden. Digital apps hold promise as a highly accessible, low-cost method of enhancing self-management in asthma, which is critical to effective asthma control.</description>
+    </item>
+    
+    <item>
+      <title>rheumatology</title>
+      <link>https://trxiv.yorks0n.com/posts/rheumatology/</link>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
+      
+      <guid>https://trxiv.yorks0n.com/posts/rheumatology/</guid>
+      <description>Somatic TET2 Mutations are Associated with Giant Cell Arteritis
+Authors: Robinette, M. L.; Weeks, L. D.; Kramer, R. J.; Agrawal, M.; Gibson, C. J.; Yu, Z.; Sekar, A.; Mehta, A.; Niroula, A.; Brown, J. T.; McDermott, G. C.; Reshef, E. R.; Lu, J. E.; Liou, V. D.; Chiou, C. A.; Natarajan, P.; Freitag, S. K.; Rao, D. A.; Ebert, B. A.
+Score: 2.0, Published: 2023-07-31 DOI: 10.1101/2023.07.26.23292945
+ObjectiveGiant cell arteritis (GCA) is an age-related vasculitis.</description>
     </item>
     
     <item>
       <title>scientific communication and education</title>
       <link>https://trxiv.yorks0n.com/posts/scientific-communication-and-education/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/scientific-communication-and-education/</guid>
       <description>Purchases dominate the carbon footprint of research laboratories
@@ -482,99 +495,63 @@ Despite increasing interest for the carbon footprint of higher education institu
     </item>
     
     <item>
-      <title>sexual and reproductive health</title>
-      <link>https://trxiv.yorks0n.com/posts/sexual-and-reproductive-health/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
-      
-      <guid>https://trxiv.yorks0n.com/posts/sexual-and-reproductive-health/</guid>
-      <description>The MidPIC study: Midwives knowledge, perspectives and learning needs regarding preconception and interconception care
-Authors: Bradfield, Z.; Leefhelm, E.; Soh, S.-E.; Black, K.; Boyle, J.; Kuliukas, L.; Harrison, C.; Homer, C. S.; Smith, R. M.; Skouteris, H.
-Score: 3.2, Published: 2023-08-01 DOI: 10.1101/2023.07.31.23293432
-BackgroundPreconception and interconception care improves the health outcomes of women and communities. ProblemLittle is known about how prepared and willing Australian midwives are to provide preconception and interconception care.</description>
-    </item>
-    
-    <item>
       <title>sports medicine</title>
       <link>https://trxiv.yorks0n.com/posts/sports-medicine/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/sports-medicine/</guid>
       <description>Scoping Review of One-Dimension Statistical Parametric Mapping in Lower Limb Biomechanical Analysis
 Authors: Yona, T.; Kamel, N.; Cohen-Eick, G.; Ovadia, I.; Fischer, A.
 Score: 1.8, Published: 2023-08-08 DOI: 10.1101/2023.08.06.23293709
-Background: Biomechanics is crucial in enhancing sports performance and preventing injury. Traditionally, discrete point analysis is used to analyze important kinetic and kinematic data points, reducing continuous data to a single point. One-dimensional Statistical Parametric Mapping (spm1d) offers a more comprehensive approach by assessing entire movement curves instead of isolated peak values.</description>
+BackgroundBiomechanics is crucial in enhancing sports performance and preventing injury. Traditionally, discrete point analysis is used to analyze important kinetic and kinematic data points, reducing continuous data to a single point. One-dimensional Statistical Parametric Mapping (spm1d) offers a more comprehensive approach by assessing entire movement curves instead of isolated peak values.</description>
     </item>
     
     <item>
       <title>synthetic biology</title>
       <link>https://trxiv.yorks0n.com/posts/synthetic-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/synthetic-biology/</guid>
-      <description>Engineering the highly productive cyanobacterium Synechococcus sp. PCC 11901
-Authors: Victoria, A. J.; Selao, T. T.; Moreno-Cabezuelo, J. A.; Mills, L. A.; Gale, G. A.; Lea-Smith, D. J.; McCormick, A. J.
-Score: 11.0, Published: 2023-08-07 DOI: 10.1101/2023.08.04.552009
-Synechococcus sp. PCC 11901 (PCC 11901) is a fast-growing marine cyanobacterial strain that has a capacity for sustained biomass accumulation to very high cell densities, comparable to that achieved by commercially relevant heterotrophic organisms.</description>
+      <description>Machine-guided design of synthetic cell type-specific cis-regulatory elements
+Authors: Gosai, S. J.; Castro, R. I.; Fuentes, N.; Butts, J. C.; Kales, S.; Noche, R. R.; Mouri, K.; Sabeti, P. C.; Reilly, S. K.; Tewhey, R.
+Score: 55.9, Published: 2023-08-09 DOI: 10.1101/2023.08.08.552077
+Cis-regulatory elements (CREs) control gene expression, orchestrating tissue identity, developmental timing, and stimulus responses, which collectively define the thousands of unique cell types in the body. While there is great potential for strategically incorporating CREs in therapeutic or biotechnology applications that require tissue specificity, there is no guarantee that an optimal CRE for an intended purpose has arisen naturally through evolution.</description>
     </item>
     
     <item>
       <title>systems biology</title>
       <link>https://trxiv.yorks0n.com/posts/systems-biology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/systems-biology/</guid>
-      <description>Systematic exploration of prokaryotic form I rubisco maximal carboxylation rates
-Authors: de Pins, B.; Greenspoon, L.; Bar-On, Y. M.; Shamshoum, M.; Ben-Nissan, R.; Milshtein, E.; Davidi, D.; Sharon, I.; Mueller-Cajar, O.; Noor, E.; Milo, R.
-Score: 19.3, Published: 2023-07-27 DOI: 10.1101/2023.07.27.550689
-Autotrophy is the basis for complex life on Earth. Its physiological limits are largely constrained by rubisco - the enzyme that catalyzes almost all carbon fixation on the planet.</description>
-    </item>
-    
-    <item>
-      <title>toxicology</title>
-      <link>https://trxiv.yorks0n.com/posts/toxicology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
-      
-      <guid>https://trxiv.yorks0n.com/posts/toxicology/</guid>
-      <description>Welding fume exposure is associated with medial temporal lobe microstructural features resembling early Alzheimer disease
-Authors: Lee, E.; Kim, J.; Prado-Rico, J. M.; Du, G.; Lewis, M. M.; Kong, L.; Yanosky, J. D.; Eslinger, P. J.; Kim, B.-G.; Hong, Y.-S.; Mailman, R. B.; Huang, X.
-Score: 9.8, Published: 2023-07-23 DOI: 10.1101/2023.07.18.23292828
-IntroductionWelding fumes contain a mixture of metals and are an epitype for environmental metal-related neurotoxicity. Past studies of welders focused largely on basal ganglia regions and their association with parkinsonism.</description>
-    </item>
-    
-    <item>
-      <title>transplantation</title>
-      <link>https://trxiv.yorks0n.com/posts/transplantation/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
-      
-      <guid>https://trxiv.yorks0n.com/posts/transplantation/</guid>
-      <description>Routine surveillance of kidney allograft rejection using a fully automated urinary CXCL9 and CXCL10 immunoassay
-Authors: Tinel, C.; Sauvaget, V.; Aouni, L.; Lamarthee, B.; Leclaire, C.; Legendre, C.; Marquet, P.; Normand, C.; Rabant, M.; Terzi, F.; Anglicheau, D.
-Score: 6.3, Published: 2023-07-28 DOI: 10.1101/2023.07.26.23293106
-BackgroundFor kidney transplant recipients, assessing non-invasively the individualized risk of acute rejection is one of the most unmet need. Urinary chemokines are one of the short-term most promising biomarkers, because of their simple and low-cost analytical method in easily accessible samples, and their high diagnostic performance consistently assessed over the last decade.</description>
+      <description>Systematic discovery of protein interaction interfaces using AlphaFold and experimental validation
+Authors: Lee, C. Y.; Hubrich, D.; Varga, J. K.; Schäfer, C.; Welzel, M.; Schumbera, E.; Đokic, M.; Strom, J. M.; Schönfeld, J.; Geist, J. L.; Polat, F.; Gibson, T. J.; Keller Valsecchi, C. I.; Kumar, M.; Schueler-Furman, O.; Luck, K.
+Score: 45.9, Published: 2023-08-09 DOI: 10.1101/2023.08.07.552219
+Structural resolution of protein interactions enables mechanistic and functional studies as well as interpretation of disease variants.</description>
     </item>
     
     <item>
       <title>urology</title>
       <link>https://trxiv.yorks0n.com/posts/urology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/urology/</guid>
       <description>Lower Urinary Tract Symptoms in a prospective cohort of COVID-19 survivors
 Authors: Gomes, C. M.; Hisano, M.; Souza, J. D.; Henriques, J. V. T.; De Bessa, J.; Moromizato, J.; Bosi, T.; Mazoni, R.; Gismondi, J.; Camargo, B.; Sammour, Z. M.; Bruschini, H.; Battistella, L. R.; Nahas, W. C.
-Score: 28.6, Published: 2023-08-02 DOI: 10.1101/2023.08.01.23293500
+Score: 29.1, Published: 2023-08-02 DOI: 10.1101/2023.08.01.23293500
 PurposeTo analyze the prevalence of lower urinary tract symptoms (LUTS) in patients who survived moderate and severe forms of COVID-19 and the risk factors for LUTS six months after hospital discharge.</description>
     </item>
     
     <item>
       <title>zoology</title>
       <link>https://trxiv.yorks0n.com/posts/zoology/</link>
-      <pubDate>Wed, 09 Aug 2023 10:39:33 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2023 10:36:01 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/zoology/</guid>
       <description>Primed and ready: Nanopore metabarcoding can now recover highly accurate consensus barcodes that are generally indel-free
 Authors: Chang, J. J. M.; Ip, Y. C. A.; Neo, W. L.; Mowe, M. A. D.; Jaafar, Z.; Huang, D.
 Score: 2.5, Published: 2023-08-06 DOI: 10.1101/2023.08.04.552069
-DNA metabarcoding applies high-throughput sequencing approaches to generate numerous DNA barcodes from mixed sample pools for mass species identification and community characterisation. To date, however, most metabarcoding studies employ second-generation sequencing platforms like Illumina, which are limited by short read lengths and longer turnaround times.</description>
+BackgroundDNA metabarcoding applies high-throughput sequencing approaches to generate numerous DNA barcodes from mixed sample pools for mass species identification and community characterisation. To date, however, most metabarcoding studies employ second-generation sequencing platforms like Illumina, which are limited by short read lengths and longer turnaround times.</description>
     </item>
     
     <item>
@@ -583,15 +560,6 @@ DNA metabarcoding applies high-throughput sequencing approaches to generate nume
       <pubDate>Wed, 28 Jun 2023 13:39:13 +0800</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/allergy-and-immunology/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>health systems and quality improvement</title>
-      <link>https://trxiv.yorks0n.com/posts/health-systems-and-quality-improvement/</link>
-      <pubDate>Wed, 28 Jun 2023 13:39:13 +0800</pubDate>
-      
-      <guid>https://trxiv.yorks0n.com/posts/health-systems-and-quality-improvement/</guid>
       <description> </description>
     </item>
     
