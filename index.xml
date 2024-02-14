@@ -6,11 +6,11 @@
     <description>Recent content on TRxiv2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2024 10:38:55 +0000</lastBuildDate><atom:link href="https://trxiv.yorks0n.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 10:38:48 +0000</lastBuildDate><atom:link href="https://trxiv.yorks0n.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>allergy and immunology</title>
       <link>https://trxiv.yorks0n.com/posts/allergy-and-immunology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/allergy-and-immunology/</guid>
       <description>Rhinovirus infection of airway epithelial cells uncovers the non-ciliated subset as a likely driver of genetic susceptibility to childhood-onset asthma
@@ -22,7 +22,7 @@ Asthma is a complex disease caused by genetic and environmental factors. Epidemi
     <item>
       <title>animal behavior and cognition</title>
       <link>https://trxiv.yorks0n.com/posts/animal-behavior-and-cognition/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/animal-behavior-and-cognition/</guid>
       <description>Tap Dancing Frogs: Posterior Toe Tapping and Feeding Behavior in Dendrobates tinctorius
@@ -34,115 +34,114 @@ Animals have myriad adaptations to help them hunt and feed in the most efficient
     <item>
       <title>biochemistry</title>
       <link>https://trxiv.yorks0n.com/posts/biochemistry/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/biochemistry/</guid>
       <description>Mechanism of degrader-targeted protein ubiquitinability
 Authors: Crowe, C.; Nakasone, M.; Chandler, S.; Tatham, M. H.; Makukhin, N.; Hay, R. T.; Ciulli, A.
-Score: 57.7, Published: 2024-02-05 DOI: 10.1101/2024.02.05.578957
+Score: 59.7, Published: 2024-02-05 DOI: 10.1101/2024.02.05.578957
 Small molecule degraders of disease-driving proteins offer a clinically proven modality with enhanced therapeutic efficacy and the potential to tackle previously undrugged targets. Thermodynamically stable and kinetically long-lived degrader-mediated ternary complexes can drive faster, more profound and durable target degradation, however the mechanistic features by which they impact on target ubiquitination remain elusive.</description>
     </item>
     
     <item>
       <title>bioengineering</title>
       <link>https://trxiv.yorks0n.com/posts/bioengineering/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/bioengineering/</guid>
       <description>Feature Reuse and Scaling: Understanding Transfer Learning with Protein Language Models
 Authors: Li, F.-Z.; Amini, A. P.; Yue, Y.; Yang, K. K.; Lu, A. X.
-Score: 80.9, Published: 2024-02-08 DOI: 10.1101/2024.02.05.578959
+Score: 87.1, Published: 2024-02-08 DOI: 10.1101/2024.02.05.578959
 Large pretrained protein language models (PLMs) have improved protein property and structure prediction from sequences via transfer learning, in which weights and representations from PLMs are repurposed for downstream tasks. Although PLMs have shown great promise, currently there is little understanding of how the features learned by pretraining relate to and are useful for downstream tasks.</description>
     </item>
     
     <item>
       <title>bioinformatics</title>
       <link>https://trxiv.yorks0n.com/posts/bioinformatics/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/bioinformatics/</guid>
       <description>edgeR 4.0: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets
 Authors: Chen, Y.; Chen, L.; Lun, A. T. L.; Baldoni, P. L.; Smyth, G. K.
-Score: 142.8, Published: 2024-01-24 DOI: 10.1101/2024.01.21.576131
+Score: 142.2, Published: 2024-01-24 DOI: 10.1101/2024.01.21.576131
 edgeR is an R/Bioconductor software package for differential analyses of sequencing data in the form of read counts for genes or genomic features. Over the past 15 years, edgeR has been a popular choice for statistical analysis of data from sequencing technologies such as RNA-seq or ChIP-seq.</description>
     </item>
     
     <item>
       <title>biophysics</title>
       <link>https://trxiv.yorks0n.com/posts/biophysics/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/biophysics/</guid>
       <description>Small LEA proteins as an effective air-water interface protectant for fragile samples during cryo-EM grid plunge freezing
 Authors: Abe, K. M.; Lim, C. J.
-Score: 48.0, Published: 2024-02-08 DOI: 10.1101/2024.02.06.579238
+Score: 54.1, Published: 2024-02-11 DOI: 10.1101/2024.02.06.579238
 Sample loss due to air-water interface (AWI) interactions is a significant challenge during cryo-electron microscopy (cryo-EM) sample grid plunge freezing. We report that small Late Embryogenesis Abundant (LEA) proteins, which naturally bind to AWI, can protect samples from AWI damage during plunge freezing.</description>
     </item>
     
     <item>
       <title>cancer biology</title>
       <link>https://trxiv.yorks0n.com/posts/cancer-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/cancer-biology/</guid>
-      <description>Mechanical confinement governs phenotypic plasticity in melanoma
-Authors: Hunter, M. V.; Montal, E.; Ma, Y.; Moncada, R.; Yanai, I.; Koche, R. P.; White, R. M.
-Score: 31.9, Published: 2024-02-02 DOI: 10.1101/2024.01.30.577120
-Phenotype switching is a form of cellular plasticity in which cancer cells reversibly move between two opposite extremes - proliferative versus invasive states. While it has long been hypothesised that such switching is triggered by external cues, the identity of these cues has remained elusive.</description>
+      <description>αKG-mediated carnitine synthesis promotes homologous recombination via histone acetylation
+Authors: Uboveja, A.; Huang, Z.; Buj, R.; Amalric, A.; Wang, H.; Tangudu, N. K.; Cole, A. R.; Megill, E.; Kantner, D.; Chatoff, A.; Ahmad, H.; Marcinkiewicz, M. M.; Disharoon, J. A.; Graff, S.; Dahl, E. S.; Hempel, N.; Stallaert, W.; Sidoli, S.; Bitler, B. G.; Long, D. T.; Snyder, N. W.; Aird, K. M.
+Score: 19.2, Published: 2024-02-11 DOI: 10.1101/2024.02.06.578742</description>
     </item>
     
     <item>
       <title>cardiovascular medicine</title>
       <link>https://trxiv.yorks0n.com/posts/cardiovascular-medicine/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/cardiovascular-medicine/</guid>
       <description>Development and validation of imaging-free myocardial fibrosis prediction models, association with outcomes, and sample size estimation for phase 3 trials
 Authors: Black, N.; Bradley, J.; Lewis, G.; Lagan, J.; Orsborne, C.; Soltani, F.; Farrant, J. P.; McDonagh, T.; Schmitt, M.; Cavalcante, J.; Ugander, M.; Butler, J.; Petrie, M. C.; Miller, C.; Schelbert, E.
-Score: 3.8, Published: 2024-02-07 DOI: 10.1101/2024.02.07.24302443
+Score: 4.8, Published: 2024-02-07 DOI: 10.1101/2024.02.07.24302443
 Background and AimsPhase 3 trials testing whether pharmacologic interventions targeting myocardial fibrosis (MF) improve outcomes require MF measurement that does not rely on tomographic imaging with intravenous contrast.</description>
     </item>
     
     <item>
       <title>cell biology</title>
       <link>https://trxiv.yorks0n.com/posts/cell-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/cell-biology/</guid>
-      <description>Dissecting reprogramming heterogeneity at single-cell resolution using scTF-seq
-Authors: Liu, W.; Saelens, W.; Rainer, P.; Biocanin, M.; Gardeux, V.; Gralak, A.; van Mierlo, G.; Russeil, J.; Liu, T.; Chen, W.; Deplancke, B.
-Score: 44.1, Published: 2024-02-02 DOI: 10.1101/2024.01.30.577921
-Reprogramming approaches often produce heterogeneous cell fates and the mechanisms behind this heterogeneity are not well-understood. To address this gap, we developed scTF-seq, a technique inducing single-cell barcoded and doxycycline-inducible TF overexpression while quantifying TF dose-dependent transcriptomic changes.</description>
+      <description>Cryosectioning-enabled super-resolution microscopy for studying nuclear architecture at the single protein level
+Authors: Stein, J.; Ericsson, M.; Nofal, M.; Magni, L.; Aufmkolk, S.; McMillan, R. B.; Breimann, L.; Herlihy, C. P.; Lee, S. D.; Willemin, A.; Wohlmann, J.; Arguedas-Jimenez, L.; Yin, P.; Pombo, A.; Church, G. M.; Wu, C.-t.
+Score: 47.5, Published: 2024-02-05 DOI: 10.1101/2024.02.05.576943
+DNA-PAINT combined with total Internal Reflection Fluorescence (TIRF) microscopy enables the highest localization precisions, down to single nanometers in thin biological samples, due to TIRFs unique method for optical sectioning and attaining high contrast.</description>
     </item>
     
     <item>
       <title>developmental biology</title>
       <link>https://trxiv.yorks0n.com/posts/developmental-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/developmental-biology/</guid>
-      <description>Local and global changes in cell density induce reorganisation of 3D packing in a proliferating epithelium.
-Authors: Barone, V.; Tagua, A.; Andres-San Roman, J. A.; Hamdoun, A.; Garrido-Garcia, J.; Lyons, D.; Escudero, L. M.
-Score: 17.8, Published: 2024-02-08 DOI: 10.1101/2024.02.08.579268
-Tissue morphogenesis is intimately linked to the changes in shape and organisation of individual cells. In curved epithelia, cells can intercalate along their own apicobasal axes adopting a shape named &amp;#39;scutoid&amp;#39; that allows energy minimization in the tissue.</description>
+      <description>Induction and in silico staging of human gastruloids with neural tube, segmented somites &amp;amp; advanced cell types
+Authors: Hamazaki, N.; Yang, W.; Kubo, C.; Qiu, C.; Martin, B. K.; Garge, R. K.; Regalado, S. G.; Nichols, E.; Lee, C.; Daza, R. M.; Srivatsan, S.; Shendure, J.
+Score: 41.9, Published: 2024-02-12 DOI: 10.1101/2024.02.10.579769
+Embryonic organoids are emerging as powerful models for studying early mammalian development. For example, stem cell-derived &amp;#39;gastruloids&amp;#39; form elongating structures containing all three germ layers.</description>
     </item>
     
     <item>
       <title>ecology</title>
       <link>https://trxiv.yorks0n.com/posts/ecology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/ecology/</guid>
-      <description>Sonic restoration: Acoustic stimulation enhances soil fungal biomass and activity of plant growth-promoting fungi
-Authors: Robinson, J. M.; Cando-Dumancela, C.; Breed, M. F.
-Score: 117.2, Published: 2024-01-15 DOI: 10.1101/2024.01.11.575298
-Ecosystem restoration interventions often utilise visible elements to restore an ecosystem (e.g., replanting native plant communities and reintroducing lost species). However, using acoustic stimulation to restore ecosystems has received little attention. Our study aimed to (a) investigate the potential effects of acoustic stimulation on fungal biomass and organic matter decomposition, which are both crucial components of ecosystem functioning and (b) assess the effect of acoustic stimulation on the growth rate and sporulation of the plant growth-promoting fungus Trichoderma harzianum.</description>
+      <description>Geographically widespread and novel hemotropic mycoplasmas and bartonellae in Mexican free-tailed bats and sympatric North American bat species
+Authors: Becker, D.; Dyer, K.; Lock, L.; Pladas, S.; Sukhadia, A.; Demory, B.; Nunes Batista, J.; Pineda, M.; Simmons, N.; Adams, A.; Frick, W.; O&amp;#39;Mara, T.; Volokhov, D.
+Score: 13.5, Published: 2024-02-09 DOI: 10.1101/2024.02.08.577874
+Bacterial pathogens remain poorly characterized in bats, especially in North America. We describe novel (and in some cases panmictic) hemoplasmas (12.</description>
     </item>
     
     <item>
       <title>emergency medicine</title>
       <link>https://trxiv.yorks0n.com/posts/emergency-medicine/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/emergency-medicine/</guid>
       <description>Severe Acute Respiratory Syndrome Coronavirus 2--Reactive Salivary Antibody Detection in South Carolina Emergency Healthcare Workers: September 2019 -- March 2020
@@ -154,55 +153,41 @@ BackgroundOn 19 January 2020, the first case of severe acute respiratory syndrom
     <item>
       <title>endocrinology</title>
       <link>https://trxiv.yorks0n.com/posts/endocrinology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/endocrinology/</guid>
-      <description>Assessing the genetic contribution of cumulative behavioral factors associated with longitudinal type 2 diabetes risk highlights adiposity and the brain-metabolic axis
-Authors: Carvalho, N.; He, Y.; Smadbeck, P.; Flannick, J.; Mercader, J.; Udler, M.; Manrai, A. K.; Merino, J.; Patel, C. J.
-Score: 5.2, Published: 2024-01-31 DOI: 10.1101/2024.01.30.24302019
-While genetic factors, behavior, and environmental exposures form a complex web of interrelated associations in type 2 diabetes (T2D), their interaction is poorly understood.</description>
+      <description>A prognostic molecular signature of hepatic steatosis is spatially heterogeneous and dynamic in human liver
+Authors: Perry, A. S.; Hadad, N.; Chatterjee, E.; Jimenez Ramos, M.; Farber-Eger, E.; Roshani, R.; Stolze, L.; Zhao, S.; Martens, L.; Kendall, T.; Thone, T.; Amancherla, K.; Bailin, S.; Gabriel, C.; Koethe, J.; Carr, J. J.; Terry, J. G.; Freedman, J.; Tanriverdi, K.; Alsop, E.; Van Keuren-Jensen, K.; Sauld, J.; Mahajan, G.; Khan, S.; Colangelo, L.</description>
     </item>
     
     <item>
       <title>epidemiology</title>
       <link>https://trxiv.yorks0n.com/posts/epidemiology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/epidemiology/</guid>
       <description>Unreliability in Simulations of COVID-19 Cases and Deaths Based on Transmission Models
 Authors: Kakeya, H.; Itoh, M.; Kamijima, Y.; Nitta, T.; Umeno, Y.
-Score: 401.7, Published: 2024-02-04 DOI: 10.1101/2024.02.02.24302123
+Score: 401.3, Published: 2024-02-04 DOI: 10.1101/2024.02.02.24302123
 Two papers authored by the same research group were published in academic journals in October 2023, both of which simulate counterfactual COVID-19 cases and deaths using transmission models. One paper estimates that the COVID-19 cases and deaths from Feb 17 to Nov 30, 2021 in Japan would have been as many as 63.</description>
     </item>
     
     <item>
       <title>evolutionary biology</title>
       <link>https://trxiv.yorks0n.com/posts/evolutionary-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/evolutionary-biology/</guid>
-      <description>Bacterial ecology and evolution converge on seasonal and decadal scales
-Authors: Rohwer, R. R.; Kirkpatrick, M.; Garcia, S. L.; Kellom, M.; McMahon, K. D.; Baker, B. J.
-Score: 77.1, Published: 2024-02-08 DOI: 10.1101/2024.02.06.579087
-Ecology and evolution are distinct theories, but the short lifespans and large population sizes of microbes allow evolution to unfold along contemporary ecological time scales. To document this in a natural system, we collected a two-decade, 471-metagenome time series from a single site in a freshwater lake, which we refer to as the TYMEFLIES dataset.</description>
-    </item>
-    
-    <item>
-      <title>gastroenterology</title>
-      <link>https://trxiv.yorks0n.com/posts/gastroenterology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
-      
-      <guid>https://trxiv.yorks0n.com/posts/gastroenterology/</guid>
-      <description>Functional variation in human Carbohydrate-Active enZYmes (hCAZymes) in relation to the efficacy of a FODMAP-reducing diet in IBS patients
-Authors: Zamfir-Taranu, A.; Loescher, B.-S.; Carbone, F.; Hoter, A.; Esteban-Blanco, C.; Bozzarelli, I.; Torices, L.; Routhiaux, K.; Van den Houte, K.; Bonfiglio, F.; Mayr, G.; Corsetti, M.; Naim, H. Y.; Franke, A.; Tack, J.; D Amato, M.
-Score: 8.1, Published: 2024-02-05 DOI: 10.1101/2024.02.05.24302204
-ObjectiveLimiting the dietary intake of carbohydrates poorly absorbed in the small intestine (FODMAPs) has therapeutic effects in some but not all irritable bowel syndrome (IBS) patients.</description>
+      <description>Effect of iris pigmentation of blue and brown eyed individuals with European ancestry on ability to see in low light conditions after a short-term dark adaption period.
+Authors: Cain, F. E.; Yamaguchi, K.
+Score: 147.0, Published: 2024-01-20 DOI: 10.1101/2024.01.17.576074
+The effect of iris depigmentation on ability to see in low light conditions has not been thoroughly investigated as an adaptive advantage that could have contributed to the evolution and persistence of blue eyes in Europe.</description>
     </item>
     
     <item>
       <title>genetic and genomic medicine</title>
       <link>https://trxiv.yorks0n.com/posts/genetic-and-genomic-medicine/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/genetic-and-genomic-medicine/</guid>
       <description>Novel syndromic neurodevelopmental disorder caused by de novo deletion of CHASERR, a long noncoding RNA
@@ -212,31 +197,31 @@ Authors: Ganesh, V. S.; Riquin, K.; Chatron, N.; Lamar, K.-M.; Aziz, M.; Monin, 
     <item>
       <title>genetics</title>
       <link>https://trxiv.yorks0n.com/posts/genetics/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/genetics/</guid>
-      <description>DNA methylation modulates nucleosome retention in sperm and H3K4 methylation deposition in early mouse embryos.
-Authors: Fanourgakis, G.; Gaspa-Toneu, L.; Komarov, P. A.; Ozonov, E. A.; Smallwood, S. A.; Peters, A. H. F. M.
-Score: 18.9, Published: 2024-02-08 DOI: 10.1101/2024.02.06.579069
-DNA methylation (DNAme) serves a stable gene regulatory function in somatic cells (1). In the germ line and during early embryogenesis, however, DNAme undergoes global erasure and re-establishment to support germ cell and embryonic development (2).</description>
+      <description>Developmental disruption of the mitochondrial fissiongene drp-1 extends the longevity of daf-2 insulin/IGF-1 receptor mutant
+Authors: Traa, A.; Van Raamsdonk, J.
+Score: 21.4, Published: 2024-02-08 DOI: 10.1101/2024.02.07.579360
+The dynamic nature of the mitochondrial network is regulated by mitochondrial fission and fusion, allowing for re-organization of mitochondria to adapt to the cells ever-changing needs. As organisms age, mitochondrial fission and fusion become dysregulated and mitochondrial networks become increasingly fragmented. Modulation of mitochondrial dynamics has been shown to affect longevity in fungi, yeast, Drosophila and C.</description>
     </item>
     
     <item>
       <title>genomics</title>
       <link>https://trxiv.yorks0n.com/posts/genomics/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/genomics/</guid>
-      <description>Natural selection exerted by historical coronavirus epidemic(s): comparative genetic analysis in China Kadoorie Biobank and UK Biobank
-Authors: Morris, S. C.; Lin, K.; Millwood, I. Y.; Yu, C.; Lv, J.; Pei, P.; Li, L.; Sun, D.; Davey Smith, G.; Chen, Z.; Walters, R. G.
-Score: 23.0, Published: 2024-02-06 DOI: 10.1101/2024.02.06.579075
-BackgroundPathogens have been one of the primary sources of natural selection affecting modern humans. The footprints of historical selection events - &amp;#34;selective sweeps&amp;#34; - can be detected in the genomes of present-day individuals.</description>
+      <description>Unifying approaches from statistical genetics and phylogenetics for mapping phenotypes in structured populations
+Authors: Schraiber, J. G.; Edge, M. D.; Pennell, M.
+Score: 32.9, Published: 2024-02-12 DOI: 10.1101/2024.02.10.579721
+In both statistical genetics and phylogenetics, a major goal is to identify correlations between genetic loci or other aspects of the phenotype or environment and a focal trait. In these two fields, there are sophisticated but disparate statistical traditions aimed at these tasks.</description>
     </item>
     
     <item>
       <title>health economics</title>
       <link>https://trxiv.yorks0n.com/posts/health-economics/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/health-economics/</guid>
       <description>Missing the vulnerable - Inequalities in social protection among the general population, people living with HIV, and adolescent girls and young women in 13 sub-Saharan African countries: Analysis of population-based surveys
@@ -248,19 +233,19 @@ Inequality in access to services is a global problem mainly impacting the poores
     <item>
       <title>health informatics</title>
       <link>https://trxiv.yorks0n.com/posts/health-informatics/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/health-informatics/</guid>
-      <description>Unequal access to diagnosis of myalgic encephalomyelitis in England
-Authors: Ponting, C. P.; Samms, G. L.
-Score: 64.6, Published: 2024-02-01 DOI: 10.1101/2024.01.31.24302070
-BackgroundPeople with Myalgic Encephalomyelitis (ME/CFS; sometimes referred to as chronic fatigue syndrome) experience very poor health-related quality of life and only rarely recover. ME/CFS has no curative treatment and no single diagnostic test. Public health and policy decisions relevant to ME/CFS require knowledge of its prevalence and barriers to diagnosis.</description>
+      <description>Retrieval Augmented Generation Enabled Generative Pre-Trained Transformer 4 (GPT-4) Performance for Clinical Trial Screening
+Authors: Unlu, O.; Shin, J.; Mailly, C. J.; Oates, M. F.; Tucci, M. R.; Varugheese, M.; Wagholikar, K.; Wang, F.; Scirica, B. M.; Blood, A. J.; Aronson, S. J.
+Score: 62.3, Published: 2024-02-08 DOI: 10.1101/2024.02.08.24302376
+BackgroundSubject screening is a key aspect of all clinical trials; however, traditionally, it is a labor-intensive and error-prone task, demanding significant time and resources.</description>
     </item>
     
     <item>
       <title>hematology</title>
       <link>https://trxiv.yorks0n.com/posts/hematology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/hematology/</guid>
       <description>TP53 mutation screening for patients at risk of myeloid malignancy
@@ -270,9 +255,21 @@ There is increasing recognition of the risk of developing therapy-related myeloi
     </item>
     
     <item>
+      <title>hiv aids</title>
+      <link>https://trxiv.yorks0n.com/posts/hiv-aids/</link>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
+      
+      <guid>https://trxiv.yorks0n.com/posts/hiv-aids/</guid>
+      <description>Prescribing pre-exposure prophylaxis (PrEP) for HIV prevention: A cross-sectional survey of General Practitioners in Australia
+Authors: Wu, J.; Fairley, C. K.; Grace, D.; Bavinton, B. R.; Fraser, D.; Chan, C.; Chow, E. P. F.; Ong, J. J.
+Score: 4.5, Published: 2024-01-25 DOI: 10.1101/2024.01.24.24301757
+BackgroundPre-exposure prophylaxis (PrEP) is a safe and effective medication for preventing HIV acquisition. We examined Australian general practitioners (GP) knowledge of PrEP efficacy, characteristics associated with ever prescribing PrEP, and barriers to prescribing.</description>
+    </item>
+    
+    <item>
       <title>immunology</title>
       <link>https://trxiv.yorks0n.com/posts/immunology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/immunology/</guid>
       <description>XBB.1.5 monovalent booster improves antibody binding and neutralization against emerging SARS-CoV-2 Omicron variants
@@ -282,31 +279,31 @@ Authors: Jain, S.; Kumar, S.; Lai, L.; Linderman, S.; Malik, A. A.; Ellis, M. L.
     <item>
       <title>infectious diseases</title>
       <link>https://trxiv.yorks0n.com/posts/infectious-diseases/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/infectious-diseases/</guid>
-      <description>Altered IgG4 Antibody Response to Repeated mRNA versus Protein COVID Vaccines
-Authors: Kalkeri, R.; Zhu, M.; Cloney-Clark, S.; Plested, J. S.; Parekh, A.; Gorinson, D.; Cai, R.; Mahato, S.; Ramanathan, P.; Aurelia, L. C.; John Selva, K.; Marchese, A. M.; Fries, L.; Chung, A. W.; Dunkle, L. M.
-Score: 480.8, Published: 2024-01-18 DOI: 10.1101/2024.01.17.24301374
-Repeated mRNA SARS-CoV-2 vaccination has been associated with increases in the proportion of IgG4 in spike-specific antibody responses and concurrent reductions in Fc{gamma}-mediated effector functions that may limit control of viral infection.</description>
+      <description>Blood transcriptomics reveal persistent SARS-CoV-2 RNA and candidate biomarkers in Long COVID patients
+Authors: MENEZES, S. M.; JAMOULLE, M.; Carletto, M. P.; Van Holm, B.; Moens, L.; Meyts, I.; Maes, P.; Van Weyenbergh, J.
+Score: 458.2, Published: 2024-01-17 DOI: 10.1101/2024.01.14.24301293
+With an estimated 65 million individuals suffering from Long COVID, validated therapeutic strategies as well as non-invasive biomarkers are direly needed to guide clinical management. We used blood digital transcriptomics in search of viral persistence and Long COVID diagnostic biomarkers in a real-world, general practice-based setting with a long clinical follow-up.</description>
     </item>
     
     <item>
       <title>intensive care and critical care medicine</title>
       <link>https://trxiv.yorks0n.com/posts/intensive-care-and-critical-care-medicine/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/intensive-care-and-critical-care-medicine/</guid>
-      <description>An Empirical Study on KDIGO-Defined Acute Kidney Injury Prediction in the Intensive Care Unit
-Authors: Lyu, X.; Fan, B.; Hüser, M.; Hartout, P.; Gumbsch, T.; Faltys, M.; Merz, T. M.; Rätsch, G.; Borgwardt, K.
-Score: 3.0, Published: 2024-02-03 DOI: 10.1101/2024.02.01.24302063
-MotivationAcute kidney injury (AKI) is a syndrome that affects a large fraction of all critically ill patients, and early diagnosis to receive adequate treatment is as imperative as it is challenging to make early.</description>
+      <description>Can unguided machine learning re-discover physiologic signatures of neonatal sepsis?
+Authors: Sullivan, B. A.; Mesner, I. G.; Fairchild, K. D.; Lake, D. E.; Moorman, R.
+Score: 1.2, Published: 2024-02-04 DOI: 10.1101/2024.02.03.24302230
+BackgroundCardiorespiratory deterioration due to sepsis is a leading cause of morbidity and mortality for extremely premature infants with very low birth weight (VLBW, birthweight &amp;lt;1500g). Abnormal heart rate (HR) patterns precede the clinical diagnosis of late-onset sepsis in this population.</description>
     </item>
     
     <item>
       <title>medical education</title>
       <link>https://trxiv.yorks0n.com/posts/medical-education/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/medical-education/</guid>
       <description>Perceptions, attitudes, and challenges regarding continuing professional development among Ethiopian Medical Laboratory professionals: A mixed-method study
@@ -318,67 +315,66 @@ BackgroundMedical laboratory professionals play vital role in healthcare. The gr
     <item>
       <title>microbiology</title>
       <link>https://trxiv.yorks0n.com/posts/microbiology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/microbiology/</guid>
       <description>Viroid-like colonists of human microbiomes
 Authors: Zheludev, I. N.; Edgar, R. C.; Galiano, M. J. L.; De la Pena, M.; Babaian, A.; Bhatt, A. S.; Fire, A. Z.
-Score: 801.3, Published: 2024-01-21 DOI: 10.1101/2024.01.20.576352
+Score: 829.4, Published: 2024-01-21 DOI: 10.1101/2024.01.20.576352
 Here, we describe the &amp;#34;Obelisks,&amp;#34; a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. &amp;#34;Obelisks&amp;#34; share several properties: (i) apparently circular RNA [~]1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the &amp;#34;Oblins&amp;#34;.</description>
     </item>
     
     <item>
       <title>molecular biology</title>
       <link>https://trxiv.yorks0n.com/posts/molecular-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/molecular-biology/</guid>
-      <description>Single-molecule chromatin configurations link transcription factor binding to expression in human cells
-Authors: Doughty, B. R.; Hinks, M. M.; Schaepe, J. M.; Marinov, G. K.; Thurm, A. R.; Rios-Martinez, C.; Parks, B. E.; Tan, Y.; Marklund, E.; Dubocanin, D.; Bintu, L.; Greenleaf, W. J.
-Score: 74.3, Published: 2024-02-04 DOI: 10.1101/2024.02.02.578660
-The binding of multiple transcription factors (TFs) to genomic enhancers activates gene expression in mammalian cells. However, the molecular details that link enhancer sequence to TF binding, promoter state, and gene expression levels remain opaque.</description>
+      <description>Interplay of condensation and chromatin binding underlies BRD4 targeting
+Authors: Strom, A. R.; Eeftens, J. M.; Polyachenko, Y.; Weaver, C. J.; Watanabe, H.-F.; Bracha, D.; Orlovsky, N. D.; Jumper, C. C.; Jacobs, W. M.; Brangwynne, C. P.
+Score: 26.8, Published: 2024-02-07 DOI: 10.1101/2024.02.07.579384
+Nuclear compartments form via biomolecular phase separation, mediated through multivalent properties of biomolecules concentrated within condensates. Certain compartments are associated with specific chromatin regions, including transcriptional initiation condensates, which are composed of transcription factors and transcriptional machinery, and form at acetylated regions including enhancer and promoter loci.</description>
     </item>
     
     <item>
       <title>nephrology</title>
       <link>https://trxiv.yorks0n.com/posts/nephrology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/nephrology/</guid>
       <description>Acute kidney injury outcomes of COVID-19 confirmed patients in a Philippine tertiary hospital: A retrospective study
 Authors: Sayson, J.; Kalaw, R.; Ordona, B. E.; Lim, M. E.
-Score: 14.7, Published: 2024-02-06 DOI: 10.1101/2024.02.05.24302369
+Score: 14.8, Published: 2024-02-06 DOI: 10.1101/2024.02.05.24302369
 The novel coronavirus (COVID-19) is known to be the fifth pandemic causing massive deaths worldwide. This virus has not only been deeply associated with acute respiratory distress, but also acute kidney injury (AKI). This study describes the baseline characteristics and various outcomes of AKI based on the KDIGO 2012 Clinical Practice Guidelines in patients hospitalized with COVID-19 at a Philippine tertiary hospital.</description>
     </item>
     
     <item>
       <title>neurology</title>
       <link>https://trxiv.yorks0n.com/posts/neurology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/neurology/</guid>
-      <description>Lesions causing Alice in Wonderland Syndrome map to a common brain network linking body and size perception
-Authors: Friedrich, M. U.; Baughan, E. C.; Kletenik, I.; Younger, E.; Zhao, C. W.; Howard, C.; Ferguson, M. A.; Chen, A.; Zeller, D.; Piervincenzi, C.; Tommasin, S.; Pantano, P.; Blanke, O.; Prasad, S.; Nielsen, J.; Fox, M. D.
-Score: 32.0, Published: 2024-01-18 DOI: 10.1101/2024.01.17.24301332
-BackgroundIn Lewis Carrolls 1865 novel &amp;#34;Alices Adventures in Wonderland&amp;#34;, the protagonist experiences distortions in the size of her body and those of others.</description>
+      <description>Evidence for trans-synaptic propagation of oligomeric tau in Progressive Supranuclear Palsy
+Authors: McGeachan, R.; Keavey, L.; Rose, J. L.; Simzer, E. M.; Chang, Y. Y.; Spires-Jones, M. P.; Gillmore, M.; Ravingerova, N.; Scutariu, C.; Taylor, L.; Rose, J.; King, D.; Tzioras, M.; Tulloch, J.; Booker, S.; Liaquat, I.; Hindley-Pollock, N.; Geary, B.; Smith, C.; Brennan, P. M.; Durrant, C. S.; Spires-Jones, T. L.
+Score: 20.6, Published: 2024-02-12 DOI: 10.1101/2022.09.20.22280086</description>
     </item>
     
     <item>
       <title>neuroscience</title>
       <link>https://trxiv.yorks0n.com/posts/neuroscience/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/neuroscience/</guid>
-      <description>Generation of surrogate brain maps preserving spatial autocorrelation through random rotation of geometric eigenmodes
-Authors: Koussis, N. C.; Pang, J. C.; Jeganathan, J.; Paton, B.; Fornito, A.; Robinson, P. A.; Misic, B.; Breakspear, M.
-Score: 42.6, Published: 2024-02-08 DOI: 10.1101/2024.02.07.579070
-The brain expresses activity in complex spatiotemporal patterns, reflected in the influence of spatially distributed cytoarchitectural, biochemical, and genetic properties. The correspondence between these multimodal &amp;#34;brain maps&amp;#34; may reflect underlying causal pathways and is hence a topic of substantial interest.</description>
+      <description>SARS-COV-2 induces blood-brain barrier and choroid plexus barrier impairments and vascular inflammation in mice
+Authors: Qiao, H.; Deng, X.; Qiu, L.; Qu, Y.; Chiu, Y.; Chen, F.; Xia, S.; Muenzel, C.; Ge, T.; Song, P.; Bonnin, A.; Zhao, Z.; Yuan, W.
+Score: 208.8, Published: 2024-02-10 DOI: 10.1101/2024.02.09.579589
+The coronavirus disease of 2019 (COVID-19) pandemic that has led to more than 700 million confirmed cases and near 7 million deaths. Although Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) virus mainly infects the respiratory system, neurological complications are widely reported in both acute infection and long-COVID cases.</description>
     </item>
     
     <item>
       <title>nutrition</title>
       <link>https://trxiv.yorks0n.com/posts/nutrition/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/nutrition/</guid>
       <description>Associations between genetically predicted iron status and cardiovascular disease risk: A Mendelian randomization study
@@ -390,7 +386,7 @@ BackgroundMendelian randomization (MR) studies suggest a causal effect of iron (
     <item>
       <title>occupational and environmental health</title>
       <link>https://trxiv.yorks0n.com/posts/occupational-and-environmental-health/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/occupational-and-environmental-health/</guid>
       <description>Evaluation of cancer incidence among Marines and Navy personnel and civilian workers exposed to contaminated drinking water at USMC Base Camp Lejeune
@@ -402,19 +398,18 @@ BackgroundDrinking water at U.S. Marine Corps Base Camp Lejeune, North Carolina 
     <item>
       <title>oncology</title>
       <link>https://trxiv.yorks0n.com/posts/oncology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/oncology/</guid>
-      <description>Convergence for Inactivation of TGFβ Signaling Is a Common Feature of Advanced Pancreatic Cancer
-Authors: Hong, J.; Kohutek, Z.; Zhang, H.; Karnoub, E.-R.; Kappagantula, R.; Wood, L. D.; Iacobuzio-Donahue, C.
-Score: 9.1, Published: 2024-01-30 DOI: 10.1101/2024.01.30.24301554
-We performed WES of 250 unique tumor tissues from 30 multiregion sampled pancreatic cancer research autopsies from patients diagnosed with advanced stage disease. We find that most genetic alterations in PDAC occur in a subclonal manner, and some genes occurred in a subclonal manner exclusively.</description>
+      <description>British Oncology Pharmacy Association Delphi Consensus Guidelines: co-infusion of trometamol-containing calcium folinate (leucovorin) with Systemic Anti-Cancer Treatments
+Authors: Polwart, C.; Root, T.; Tezcan, S.; Meehan, S.; Wetherill, B.; Waterson, C.; Burnett, B.; Chauhan, R.; Al-Modaris, I.; Walters-Davies, R.; British Oncology Pharmacy Association, Score: 5.6, Published: 2024-02-11 DOI: 10.1101/2024.02.10.24302100
+Drug stability and compatibility are critical factors influencing cost and logistics of treatment delivery, therapeutic effectiveness, and patient safety. This is particularly significant in the realm of cancer chemotherapeutics, where stability and compatibility studies play a vital role in ensuring rational and safe medicine administration.</description>
     </item>
     
     <item>
       <title>ophthalmology</title>
       <link>https://trxiv.yorks0n.com/posts/ophthalmology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/ophthalmology/</guid>
       <description>Digital PCR-based deep quantitative profiling delineates heterogeneity and evolution of uveal melanoma
@@ -424,45 +419,57 @@ Uveal melanoma is an aggressive intraocular tumour characterised by a limited nu
     </item>
     
     <item>
+      <title>pain medicine</title>
+      <link>https://trxiv.yorks0n.com/posts/pain-medicine/</link>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
+      
+      <guid>https://trxiv.yorks0n.com/posts/pain-medicine/</guid>
+      <description>Neuropsychology of chronic back pain managed with long-term opioid use.
+Authors: Baliki, M. N.; Vigotsky, A. D.; Rached, G.; Jabakhanji, R.; Huang, L.; Branco, P.; Cong, O.; Griffith, J. W.; Wasan, A.; Schnitzer, T.; Apkarian, A. V.
+Score: 1.2, Published: 2024-02-08 DOI: 10.1101/2024.02.07.24302408
+Chronic pain is commonly treated with long-term opioids, but the neuropsychological outcomes associated with stable long-duration opioid use remain unclear. Here, we contrasted the psychological profiles, brain activity, and brain structure of 70 chronic back pain patients on opioids (CBP&amp;#43;O, average opioid exposure 6.</description>
+    </item>
+    
+    <item>
       <title>pathology</title>
       <link>https://trxiv.yorks0n.com/posts/pathology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/pathology/</guid>
-      <description>A drug cocktail of rapamycin, acarbose, and phenylbutyrate enhances resilience to features of early-stage Alzheimer&amp;#39;s disease in aging mice
-Authors: Wezeman, J.; Darvas, M.; Postupna, N.; Klug, J.; Mangalindan, R. S.; Keely, A.; Nguyen, K.; Johnson, C.; Rosenfeld, M.; Ladiges, W.
-Score: 13.2, Published: 2024-01-30 DOI: 10.1101/2024.01.26.577437
-The process of aging is defined by the breakdown of critical maintenance pathways leading to an accumulation of damage and its associated phenotypes.</description>
+      <description>Loss of endogenous estrogen alters mitochondrial metabolism and muscle clock-related protein Rbm20 in female mdx mice
+Authors: Timpani, C. A.; Debrincat, D.; Kourakis, S.; Boyer, R.; Formosa, L. E.; Steele, J. R.; Zhang, H.; Schittenhelm, R. B.; Russell, A. P.; Rybalka, E.; Lindsay, A.
+Score: 5.4, Published: 2024-02-12 DOI: 10.1101/2024.02.08.579567
+Female carriers of a Duchenne muscular dystrophy (DMD) gene mutation manifest exercise intolerance and metabolic anomalies that may be exacerbated following menopause due to the loss of estrogen, a known regulator of skeletal muscle function and metabolism.</description>
     </item>
     
     <item>
       <title>pharmacology and toxicology</title>
       <link>https://trxiv.yorks0n.com/posts/pharmacology-and-toxicology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/pharmacology-and-toxicology/</guid>
-      <description>Unplugging lateral fenestrations of NALCN reveals a hidden drug binding site within the pore module
-Authors: Schott, K.; Usher, S. G.; Serra, O.; Carnevale, V.; Pless, S.; Chua, H. C.
-Score: 6.9, Published: 2024-01-28 DOI: 10.1101/2023.04.12.536537
-The sodium (Na&amp;#43;) leak channel (NALCN) is a member of the four-domain voltage-gated cation channel family that includes the prototypical voltage-gated sodium and calcium channels (NaVs and CaVs, respectively). Unlike NaVs and CaVs, which have four lateral fenestrations that serve as routes for lipophilic compounds to enter the central cavity to modulate channel function, NALCN has bulky residues (W311, L588, M1145 and Y1436) that block these openings.</description>
+      <description>Cell circuits underlying nanomaterial specific respiratory toxicology
+Authors: Voss, C.; Han, L.; Ansari, M.; Strunz, M.; Haefner, V.; Ballester-Lopez, C.; Angelidis, I.; Mayr, C. H.; Berthing, T.; Conlon, T.; Liu, Q.; Ren, H.; Zhou, Q.; Schmid, O.; Yildirim, A. O.; Rehberg, M.; Vogel, U.; Gothe-Schniering, J.; Theis, F. J.; Schiller, H. B.; Stoeger, T.
+Score: 4.5, Published: 2024-02-12 DOI: 10.1101/2024.02.10.579746
+Nanomaterials emerged as boundless resource of innovation, but their shape and biopersistence related to respiratory toxicology raise longstanding concerns.</description>
     </item>
     
     <item>
       <title>physiology</title>
       <link>https://trxiv.yorks0n.com/posts/physiology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/physiology/</guid>
-      <description>Rejuvenation of Senescent Cells by Low Frequency Ultrasound without Senolysis
-Authors: Kureel, S. K.; Maroto, R.; Powell, S.; Margadant, F.; Blair, B.; Rasmussen, B.; Sheetz, M.
-Score: 42.5, Published: 2024-02-05 DOI: 10.1101/2022.12.08.519320
-It is believed that senescent cells are unable to grow; however, we have treated non-growing senescent cells with low frequency ultrasound (LFU) and they are rejuvenated for growth. Further, the senescent cells are characterized by low levels of motility but LFU treatment significantly increases the level of whole cell and organelle motility.</description>
+      <description>Anti-diuretic hormone ITP signals via a guanylate cyclase receptor to modulate systemic homeostasis in Drosophila
+Authors: Gera, J.; Agard, M.; Nave, H.; Sajadi, F.; Thorat, L.; Kondo, S.; Nassel, D.; Paluzzi, J.-P. V.; Zandawala, M.
+Score: 16.5, Published: 2024-02-10 DOI: 10.1101/2024.02.07.579245
+Insects have evolved a variety of neurohormones that enable them to maintain their nutrient and osmotic homeostasis. While the identities and functions of various insect metabolic and diuretic hormones have been well-established, the characterization of an anti-diuretic signaling system that is conserved across most insects is still lacking.</description>
     </item>
     
     <item>
       <title>plant biology</title>
       <link>https://trxiv.yorks0n.com/posts/plant-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/plant-biology/</guid>
       <description>FROM DUST TO SEED: A LUNAR CHICKPEA STORY
@@ -474,7 +481,7 @@ Food sustainability is one of the most significant barriers to long-term space t
     <item>
       <title>primary care research</title>
       <link>https://trxiv.yorks0n.com/posts/primary-care-research/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/primary-care-research/</guid>
       <description>Monitoring Report: GLP-1 RA Prescribing Trends - December 2023 Data
@@ -486,7 +493,7 @@ BackgroundLimited recent data exist on prescribing patterns and patient characte
     <item>
       <title>psychiatry and clinical psychology</title>
       <link>https://trxiv.yorks0n.com/posts/psychiatry-and-clinical-psychology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/psychiatry-and-clinical-psychology/</guid>
       <description>Distinguishing different psychiatric disorders using DDx-PRS
@@ -496,41 +503,55 @@ Authors: Peyrot, W. J.; Panagiotaropoulou, G.; Olde Loohuis, L. M.; Adams, M.; A
     <item>
       <title>public and global health</title>
       <link>https://trxiv.yorks0n.com/posts/public-and-global-health/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/public-and-global-health/</guid>
-      <description>Comparing surveyed adults with long COVID and those with just a positive test helps put COVID into perspective
-Authors: Adams, M.; Grandpre, J.
-Score: 5.0, Published: 2024-02-03 DOI: 10.1101/2024.02.02.24302216
-IntroductionAmong adults who test positive for COVID-19, some develop long COVID (symptoms lasting [&amp;amp;ge;]3 months), and some do not. We compared 3 groups on selected measures to help determine strategies to reduce COVID impact. MethodsUsing Stata and data for 385,617 adults from the 2022 Behavioral Risk Factor Surveillance System, we compared adults reporting long COVID, those with just a positive test, and those who never tested positive, on several health status and risk factor measures plus vaccination rates (data for 178,949 adults in 29 states).</description>
+      <description>Ecological impacts of climate change will transform public health priorities for zoonotic and vector-borne disease
+Authors: Redding, D. W.; Gibb, R.; Jones, K. E.
+Score: 54.3, Published: 2024-02-11 DOI: 10.1101/2024.02.09.24302575
+Climate change impacts on zoonotic/vector-borne diseases pose significant threats to humanity1 but these links are, in general, poorly understood2. Here, we project present and future geographical risk patterns for 141 infectious agents to understand likely climate change impacts, by integrating ecological models of infection hazard (climate-driven host/vector distributions and dispersal3,4) with exposure (human populations) and vulnerability (poverty prevalence).</description>
     </item>
     
     <item>
       <title>radiology and imaging</title>
       <link>https://trxiv.yorks0n.com/posts/radiology-and-imaging/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/radiology-and-imaging/</guid>
-      <description>First positronium image of the human brain in vivo
-Authors: Moskal, P.; Baran, J.; Bass, S.; Choinski, J.; Chug, N.; Curceanu, C.; Czerwinski, E.; Dadgar, M.; Das, M.; Dulski, K. Ł; Eliyan, K. V.; Fronczewska, K.; Gajos, A.; Kacprzak, K.; Kajetanowicz, M.; Kaplanoglu, T.; Kaplon, L.; Klimaszewski, K.; Kobylecka, M.; Korcyl, G.; Kozik, T.; Krzemien, W.; Kubat, K.; Kumar, D.; Kunikowska, J.; Maczewska, J.; Migdal, W.; Moskal, G.; Mryka, W.</description>
+      <description>Brain 3T magnetic resonance imaging in neonates: features and incidental findings from a research cohort enriched for preterm birth
+Authors: Sullivan, G.; Choi, S.; Quigley, A. J.; Teed, R.; Blesa Cabez, M.; Vaher, K.; Corrigan, A. E.; Stoye, D. Q.; Thrippleton, M. J.; Bastin, M.; Boardman, J. P.
+Score: 1.2, Published: 2024-02-08 DOI: 10.1101/2024.02.07.24302207
+Background and objectivesThe survival rate and patterns of brain injury after very preterm birth are evolving with changes in clinical practices.</description>
+    </item>
+    
+    <item>
+      <title>rehabilitation medicine and physical therapy</title>
+      <link>https://trxiv.yorks0n.com/posts/rehabilitation-medicine-and-physical-therapy/</link>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
+      
+      <guid>https://trxiv.yorks0n.com/posts/rehabilitation-medicine-and-physical-therapy/</guid>
+      <description>Physiotherapy Under Pressure: A Cross-Sectional Study on The Interplay Between Perfectionism, Moral Injury, and Burnout
+Authors: Biggs, D.; Blackburn, L.; Black, C.; Shanmugam, S.
+Score: 17.6, Published: 2024-02-11 DOI: 10.1101/2024.02.09.24302501
+Background: Given the escalating challenges for UK-based physiotherapists in workload pressures, budget constraints, staff shortages and patient wait times, the profession (of 65,000 registered physiotherapists) requires immediate care and review of therapist health. This pioneering study aims to examine perfectionism, moral injury, and burnout among UK-based physiotherapists across the NHS, private practice, sports, and academia.</description>
     </item>
     
     <item>
       <title>scientific communication and education</title>
       <link>https://trxiv.yorks0n.com/posts/scientific-communication-and-education/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/scientific-communication-and-education/</guid>
       <description>Structured Peer Review: Pilot results from 23 Elsevier Journals
 Authors: Malicki, M.; Mehmani, B.
-Score: 19.1, Published: 2024-02-04 DOI: 10.1101/2024.02.01.578440
+Score: 26.1, Published: 2024-02-04 DOI: 10.1101/2024.02.01.578440
 BackgroundReviewers rarely comment on the same aspects of a manuscript, making it difficult to properly assess manuscripts quality and the quality of the peer review process. It was the goal of this pilot study to evaluate structured peer review implementation by: 1) exploring if and how reviewers answered structured peer review questions, 2) analysing reviewer agreement, 3) comparing that agreement to agreement before implementation of structured peer review, and 4) further enhancing the piloted set of structured peer review questions.</description>
     </item>
     
     <item>
       <title>surgery</title>
       <link>https://trxiv.yorks0n.com/posts/surgery/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/surgery/</guid>
       <description>Indexing Healthcare Access and Quality for Surgically Amenable Conditions: A Global Analysis of 204 Countries and Territories from 1990 to 2019
@@ -542,48 +563,61 @@ IntroductionBuilding on past frameworks, our aim was to systematically analyze t
     <item>
       <title>synthetic biology</title>
       <link>https://trxiv.yorks0n.com/posts/synthetic-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/synthetic-biology/</guid>
-      <description>DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements
-Authors: Ferreira DaSilva, L.; Senan, S.; Patel, Z. M.; Reddy, A. J.; Gabbita, S.; Nussbaum, Z.; Cordova, C. M. V.; Wenteler, A.; Weber, N.; Tunjic, T. M.; Khan, T. A.; Li, Z.; Smith, C. R.; Bejan, M.; Louis, L. K.; Cornejo, P.; Connell, W.; Wong, E. S.; Meuleman, W.; Pinello, L.
-Score: 63.5, Published: 2024-02-01 DOI: 10.</description>
+      <description>DNA representations and generalization performance of sequence-to-expression models
+Authors: Shen, Y.; Kudla, G.; Oyarzun, D. A.
+Score: 10.0, Published: 2024-02-07 DOI: 10.1101/2024.02.06.579067
+The increasing demand for biological products drives many efforts to engineer cells that produce heterologous proteins at maximal yield. Recent advances in massively parallel reporter assays can deliver data suitable for training machine learning models and sup-port the design of microbial strains with optimized protein expression phenotypes. The best performing sequence- to-expression models have been trained on one-hot encodings, a mechanism-agnostic representation of nucleotide sequences.</description>
     </item>
     
     <item>
       <title>systems biology</title>
       <link>https://trxiv.yorks0n.com/posts/systems-biology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/systems-biology/</guid>
       <description>Spatially Exploring RNA Biology in Archival Formalin-Fixed Paraffin-Embedded Tissues
 Authors: Bai, Z.; Zhang, D.; Gao, Y.; Tao, B.; Bao, S.; Enninful, A.; Zhang, D.; Su, G.; Tian, X.; Zhang, N.; Xiao, Y.; Liu, Y.; Gerstein, M.; Li, M.; Xing, Y.; Lu, J.; Xu, M. L.; Fan, R.
-Score: 71.4, Published: 2024-02-08 DOI: 10.1101/2024.02.06.579143
+Score: 76.4, Published: 2024-02-08 DOI: 10.1101/2024.02.06.579143
 Spatial transcriptomics has emerged as a powerful tool for dissecting spatial cellular heterogeneity but as of today is largely limited to gene expression analysis.</description>
     </item>
     
     <item>
       <title>transplantation</title>
       <link>https://trxiv.yorks0n.com/posts/transplantation/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/transplantation/</guid>
       <description>Molecular signatures of chronic antibody-mediated rejection in human liver transplants
 Authors: Engel, B.; Alaswad, A.; Campos-Murguia, A.; Zoodsma, M.; Klingbeil, A.; Chihab, K.; Bosselmann, E. A.; Heinrich, S.; Hartleben, B.; Jonigk, D. D.; Verboom, M.; Hallensleben, M.; Geffers, R.; Wedemeyer, H.; Xu, C.; Jaeckel, E.; Li, Y.; Taubert, R.
 Score: 1.2, Published: 2024-02-08 DOI: 10.1101/2024.02.08.24302515
-Background&amp;amp;Aims: The role of antibody-mediated rejection (ABMR) after liver transplantation (LT) remains controversial. Chronic ABMR (cABMR) is often subclinical and potentially missed without surveillance biopsies (svLbx) which are not established in most LT centers.</description>
+Background&amp;amp;AimsThe role of antibody-mediated rejection (ABMR) after liver transplantation (LT) remains controversial. Chronic ABMR (cABMR) is often subclinical and potentially missed without surveillance biopsies (svLbx) which are not established in most LT centers.</description>
+    </item>
+    
+    <item>
+      <title>urology</title>
+      <link>https://trxiv.yorks0n.com/posts/urology/</link>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
+      
+      <guid>https://trxiv.yorks0n.com/posts/urology/</guid>
+      <description>Evaluation of genetic associations with clinical phenotypes of kidney stone disease
+Authors: Hsi, R. S.; Zhang, S.; Xu, Y.; Triozzi, J. L.; Hung, A. M.; Bejan, C. A.
+Score: 1.5, Published: 2024-01-22 DOI: 10.1101/2024.01.18.24301501
+Introduction and ObjectiveWe sought to replicate and discover genetic associations of kidney stone disease within a large-scale electronic health record (EHR) system. MethodsWe performed genome-wide association studies (GWASs) for nephrolithiasis from genotyped samples of 5,571 cases and 83,692 controls.</description>
     </item>
     
     <item>
       <title>zoology</title>
       <link>https://trxiv.yorks0n.com/posts/zoology/</link>
-      <pubDate>Sun, 11 Feb 2024 10:38:55 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 10:38:48 +0000</pubDate>
       
       <guid>https://trxiv.yorks0n.com/posts/zoology/</guid>
-      <description>Internal Transcribed Spacers as Phylogenetic Markers Enable Species-level Metataxonomic Analysis of Ciliated Protozoa
-Authors: Somasundaram, S.; Yu, Z.
-Score: 3.0, Published: 2024-02-07 DOI: 10.1101/2024.02.02.578691
-BackgroundThe conventional morphology-based classification of ciliates is often inaccurate and time-consuming. To address this issue, sequencing, and analysis of the 18S rRNA gene of ciliates have been used as an alternative. However, this method has limitations because the highly conserved nature of this gene makes it challenging to achieve species-level resolution.</description>
+      <description>The highly repetitive genome of Myxobolus rasmusseni n. sp, a myxozoan parasite of fathead minnows
+Authors: Muthye, V. R.; Leon Coria, A.; Liu, H.; Finney, C. A. M.; Goater, C. P.; Wasmuth, J. D.
+Score: 4.8, Published: 2024-02-12 DOI: 10.1101/2024.02.09.579586
+Background The Myxozoa is a group of at least 2,400 endoparasites within the phylum Cnidaria. All myxozoans have greatly reduced in size and morphology compared to free-living members of the phylum.</description>
     </item>
     
     <item>
